@@ -561,44 +561,6 @@ Para ser usado cuando se quiere crear una cota linear.
 \end{figure}
 
 
-\chapter{Measure Geometry}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.55\linewidth, height=0.35\textheight,keepaspectratio]{Imagenes/autocad_measuregeom01}
-	\caption{Manage \textrightarrow Record}
-	\label{fig:autocadmeasuregeom01}
-\end{figure}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.65\linewidth, height=0.35\textheight,keepaspectratio]{Imagenes/autocad_measuregeom02}
-	\caption{MEASUREGEOM + D \textrightarrow Stop}
-	\label{fig:autocadmeasuregeom02}
-\end{figure}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.75\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_measuregeom03}
-	\caption{Nombrar el macro \emph{D}}
-	\label{fig:autocadmeasuregeom03}
-\end{figure}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.95\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_measuregeom04}
-	\caption{Al escribir \emph{D} se ejecuta la acción}
-	\label{fig:autocadmeasuregeom04}
-\end{figure}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.95\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_measuregeom05}
-	\caption{Acción ejecutada}
-	\label{fig:autocadmeasuregeom05}
-\end{figure}
-
-
 \chapter{Right-Click Selection Options}
 
 Al oprimir \emph{CTRL + Click-derecho} se despliega un menú donde se puede elegir un punto de referencia con el comando \emph{From}, el punto medio entre dos puntos con \emph{Mid Between 2 Points} o restringir el movimiento a uno de los ejes con \emph{Point Filters}.
@@ -615,6 +577,46 @@ Al oprimir \emph{CTRL + Click-derecho} se despliega un menú donde se puede eleg
 
 Los LISP son una ejecución de un código que permite automatizar distintas funciones con un solo comando.
 
+\section{Measure Geometry Distance}
+
+Este LISP puede ejecutar el comando \emph{Measure Geometry} en su modo \emph{Distance} al utilizar el comando \emph{D}. 
+
+El archivo se encuentra en \path{\\intradeserver\Ingenieria\13 Usuarios\Alberto_M\AutoCAD Lisps}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.95\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_measuregeom01}
+	\caption{Manage\textrightarrow Load Application}
+	\label{fig:autocadmeasuregeom01}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_measuregeom02}
+	\caption{Startup Suite\textrightarrow Contents...}
+	\label{fig:autocadmeasuregeom02}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_measuregeom03}
+	\caption{Add...}
+	\label{fig:autocadmeasuregeom03}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_measuregeom04}
+	\caption{El comando se ejecuta con \emph{D}}
+	\label{fig:autocadmeasuregeom04}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_measuregeom05}
+	\caption{Resultado de Measure Geometry Distance}
+	\label{fig:autocadmeasuregeom05}
+\end{figure}
 
 
 
@@ -1545,19 +1547,31 @@ Utilizando el SOLIDWORKS Task Scheduler se pueden introducir valores para las pr
 \part{Apéndices}
 
 \appendix
-\chapter{Sequential Feature Tree Code}
+
+\chapter{Measure Geometry Code}
 
 \lstset{
-basicstyle=\footnotesize,
-breaklines=true,
-commentstyle=\color{mygreen},
-keepspaces=false,
-keywordstyle=\color{blue},
-language=VBScript,
-numbers=left,
-numbersep=5pt,
-numberstyle=\tiny\color{mygray}
+	basicstyle=\footnotesize,
+	breaklines=true,
+	commentstyle=\color{mygreen},
+	keepspaces=false,
+	keywordstyle=\color{blue},
+	language=VBScript,
+	numbers=left,
+	numbersep=5pt,
+	numberstyle=\tiny\color{mygray}
 }
+
+\begin{lstlisting}[language=Lisp]
+	(defun c:D ()
+	(command "_.MEASUREGEOM" "_DISTANCE") ; Activate MEASUREGEOM for distance
+	(princ)
+	)
+\end{lstlisting}
+
+\chapter{Sequential Feature Tree Code}
+
+
 
 
 \begin{lstlisting}
