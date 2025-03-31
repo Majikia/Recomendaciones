@@ -1,83 +1,101 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {part}{I\hspace {1em}File Explorer}{5}{part.1}%
-\contentsline {chapter}{\numberline {1}Dark Mode}{6}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Property Description}{8}{chapter.2}%
-\contentsline {chapter}{\numberline {3}División en el sidebar}{12}{chapter.3}%
-\contentsline {part}{II\hspace {1em}Outlook}{14}{part.2}%
-\contentsline {chapter}{\numberline {4}Create Folders}{15}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Find Related Messages}{17}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Rules}{19}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Always Move Messages From: Sender}{19}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Create Rule}{20}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Edit Rules}{21}{section.6.3}%
-\contentsline {part}{III\hspace {1em}AutoCAD}{23}{part.3}%
-\contentsline {chapter}{\numberline {7}Display Resolution}{24}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Modelspace y Paperspace Background}{26}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Confirm Commands}{29}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Publish Multiple PDF}{30}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Ray}{33}{chapter.11}%
-\contentsline {chapter}{\numberline {12}Stretch}{36}{chapter.12}%
-\contentsline {chapter}{\numberline {13}Create Alias}{38}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Publish}{39}{section.13.1}%
-\contentsline {section}{\numberline {13.2}Quit Modelspace}{40}{section.13.2}%
-\contentsline {section}{\numberline {13.3}Ray}{40}{section.13.3}%
-\contentsline {section}{\numberline {13.4}Linear Dimension}{41}{section.13.4}%
-\contentsline {section}{\numberline {13.5}Layer Options}{42}{section.13.5}%
-\contentsline {subsection}{\numberline {13.5.1}Esconder el layer seleccionado}{42}{subsection.13.5.1}%
-\contentsline {subsection}{\numberline {13.5.2}Encender todos los layers}{42}{subsection.13.5.2}%
-\contentsline {subsection}{\numberline {13.5.3}Mostrar solo el layer seleccionado}{43}{subsection.13.5.3}%
-\contentsline {subsection}{\numberline {13.5.4}Congelar el layer seleccionado}{43}{subsection.13.5.4}%
-\contentsline {chapter}{\numberline {14}Right-Click Selection Options}{44}{chapter.14}%
-\contentsline {chapter}{\numberline {15}LISP}{45}{chapter.15}%
-\contentsline {section}{\numberline {15.1}Measure Geometry Distance}{45}{section.15.1}%
-\contentsline {part}{IV\hspace {1em}SolidWorks}{48}{part.4}%
-\contentsline {chapter}{\numberline {16}Dark Mode}{49}{chapter.16}%
-\contentsline {chapter}{\numberline {17}Shortcut Bars}{51}{chapter.17}%
-\contentsline {section}{\numberline {17.1}Configuración}{51}{section.17.1}%
-\contentsline {subsection}{\numberline {17.1.1}Part}{52}{subsection.17.1.1}%
-\contentsline {subsection}{\numberline {17.1.2}Assembly}{53}{subsection.17.1.2}%
-\contentsline {subsection}{\numberline {17.1.3}Drawing}{54}{subsection.17.1.3}%
-\contentsline {subsection}{\numberline {17.1.4}Sketch}{55}{subsection.17.1.4}%
-\contentsline {section}{\numberline {17.2}Uso}{56}{section.17.2}%
-\contentsline {chapter}{\numberline {18}Comandos del Teclado}{58}{chapter.18}%
-\contentsline {section}{\numberline {18.1}Measure}{59}{section.18.1}%
-\contentsline {section}{\numberline {18.2}Triad Manipulator}{60}{section.18.2}%
-\contentsline {section}{\numberline {18.3}Isometric}{61}{section.18.3}%
-\contentsline {chapter}{\numberline {19}Context Sensitive Left-Click}{62}{chapter.19}%
-\contentsline {section}{\numberline {19.1}Graphics-Area}{62}{section.19.1}%
-\contentsline {section}{\numberline {19.2}Feature Manager}{63}{section.19.2}%
-\contentsline {chapter}{\numberline {20}Context Sensitive Right-Click}{65}{chapter.20}%
-\contentsline {chapter}{\numberline {21}Mouse Gestures}{66}{chapter.21}%
-\contentsline {chapter}{\numberline {22}Breadcrumbs y Acercar Funciones}{67}{chapter.22}%
-\contentsline {chapter}{\numberline {23}Quick-Mates}{70}{chapter.23}%
-\contentsline {chapter}{\numberline {24}Quick-hide and Show Hidden Bodies}{71}{chapter.24}%
-\contentsline {chapter}{\numberline {25}Tree Display Descriptions}{73}{chapter.25}%
-\contentsline {chapter}{\numberline {26}Component Preview Window}{75}{chapter.26}%
-\contentsline {chapter}{\numberline {27}Copy Parts By Dragging}{79}{chapter.27}%
-\contentsline {chapter}{\numberline {28}Assembly Visualization}{80}{chapter.28}%
-\contentsline {chapter}{\numberline {29}Macros}{83}{chapter.29}%
-\contentsline {section}{\numberline {29.1}Agregar un Macro Nuevo}{83}{section.29.1}%
-\contentsline {section}{\numberline {29.2}Sequential Feature Tree}{84}{section.29.2}%
-\contentsline {section}{\numberline {29.3}Toggle Scroll Item Into View}{85}{section.29.3}%
-\contentsline {section}{\numberline {29.4}Horizontal and Aligned Dimension Swap}{86}{section.29.4}%
-\contentsline {section}{\numberline {29.5}Lower Shaded and Draft Quality}{87}{section.29.5}%
-\contentsline {chapter}{\numberline {30}Dimension Units}{89}{chapter.30}%
-\contentsline {chapter}{\numberline {31}Dual Unit Measurement}{90}{chapter.31}%
-\contentsline {chapter}{\numberline {32}Cycle Options}{92}{chapter.32}%
-\contentsline {chapter}{\numberline {33}Create Curves With Lines}{93}{chapter.33}%
-\contentsline {chapter}{\numberline {34}Create Multileaders}{95}{chapter.34}%
-\contentsline {chapter}{\numberline {35}Virtual Sharps and Sheet Metal Measurements}{96}{chapter.35}%
-\contentsline {chapter}{\numberline {36}Right-Click In Drawings}{98}{chapter.36}%
-\contentsline {section}{\numberline {36.1}Add Stack To Balloon}{98}{section.36.1}%
-\contentsline {section}{\numberline {36.2}Add To Ordinate}{99}{section.36.2}%
-\contentsline {chapter}{\numberline {37}Cargar Add-In Desde la Apertura}{101}{chapter.37}%
-\contentsline {chapter}{\numberline {38}Sheet Metal Gauge Table}{104}{chapter.38}%
-\contentsline {section}{\numberline {38.1}Configuración}{104}{section.38.1}%
-\contentsline {section}{\numberline {38.2}Uso}{106}{section.38.2}%
-\contentsline {chapter}{\numberline {39}Update Custom Properties}{108}{chapter.39}%
-\contentsline {part}{V\hspace {1em}Apéndices}{111}{part.5}%
-\contentsline {chapter}{\numberline {A}Measure Geometry Code}{112}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {B}Sequential Feature Tree Code}{113}{appendix.Alph2}%
-\contentsline {chapter}{\numberline {C}Toggle Scroll Item Into View Code}{119}{appendix.Alph3}%
-\contentsline {chapter}{\numberline {D}Horizontal and Aligned Dimension Swap Code}{120}{appendix.Alph4}%
-\contentsline {chapter}{\numberline {E}Lower Shaded and Draft Quality Code}{122}{appendix.Alph5}%
+\contentsline {part}{I\hspace {1em}File Explorer}{6}{part.1}%
+\contentsline {chapter}{\numberline {1}Dark Mode}{7}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Property Description}{10}{chapter.2}%
+\contentsline {chapter}{\numberline {3}División en el sidebar}{14}{chapter.3}%
+\contentsline {part}{II\hspace {1em}Outlook}{17}{part.2}%
+\contentsline {chapter}{\numberline {4}Create Folders}{18}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Find Related Messages}{20}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Rules}{22}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Always Move Messages From: Sender}{22}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Create Rule}{23}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Edit Rules}{24}{section.6.3}%
+\contentsline {part}{III\hspace {1em}AutoCAD}{26}{part.3}%
+\contentsline {chapter}{\numberline {7}Display Resolution}{27}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Modelspace y Paperspace Background}{29}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Confirm Commands}{32}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Drawing Units}{33}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Publish Multiple PDF}{34}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Server Directory in Print Popup}{38}{chapter.12}%
+\contentsline {chapter}{\numberline {13}Ray}{40}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Dimspace}{43}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Stretch}{45}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Wipeout}{48}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Create Alias}{49}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Publish}{51}{section.17.1}%
+\contentsline {section}{\numberline {17.2}Copy}{52}{section.17.2}%
+\contentsline {section}{\numberline {17.3}Circle}{52}{section.17.3}%
+\contentsline {section}{\numberline {17.4}Balloon}{53}{section.17.4}%
+\contentsline {section}{\numberline {17.5}Quit Modelspace}{53}{section.17.5}%
+\contentsline {section}{\numberline {17.6}Ray}{54}{section.17.6}%
+\contentsline {section}{\numberline {17.7}Linear Dimension}{54}{section.17.7}%
+\contentsline {section}{\numberline {17.8}Layer Options}{55}{section.17.8}%
+\contentsline {subsection}{\numberline {17.8.1}Esconder el layer seleccionado}{55}{subsection.17.8.1}%
+\contentsline {subsection}{\numberline {17.8.2}Encender todos los layers}{55}{subsection.17.8.2}%
+\contentsline {subsection}{\numberline {17.8.3}Mostrar solo el layer seleccionado}{56}{subsection.17.8.3}%
+\contentsline {subsection}{\numberline {17.8.4}Congelar el layer seleccionado}{56}{subsection.17.8.4}%
+\contentsline {chapter}{\numberline {18}Right-Click Selection Options}{57}{chapter.18}%
+\contentsline {chapter}{\numberline {19}LISP}{58}{chapter.19}%
+\contentsline {section}{\numberline {19.1}Measure Geometry Distance}{58}{section.19.1}%
+\contentsline {section}{\numberline {19.2}Dimedit Home}{60}{section.19.2}%
+\contentsline {section}{\numberline {19.3}MM to IN Converter}{61}{section.19.3}%
+\contentsline {part}{IV\hspace {1em}SolidWorks}{63}{part.4}%
+\contentsline {chapter}{\numberline {20}Dark Mode}{64}{chapter.20}%
+\contentsline {chapter}{\numberline {21}Shortcut Bars}{66}{chapter.21}%
+\contentsline {section}{\numberline {21.1}Configuración}{66}{section.21.1}%
+\contentsline {subsection}{\numberline {21.1.1}Part}{67}{subsection.21.1.1}%
+\contentsline {subsection}{\numberline {21.1.2}Assembly}{68}{subsection.21.1.2}%
+\contentsline {subsection}{\numberline {21.1.3}Drawing}{69}{subsection.21.1.3}%
+\contentsline {subsection}{\numberline {21.1.4}Sketch}{70}{subsection.21.1.4}%
+\contentsline {section}{\numberline {21.2}Uso}{71}{section.21.2}%
+\contentsline {chapter}{\numberline {22}Comandos del Teclado}{73}{chapter.22}%
+\contentsline {section}{\numberline {22.1}Measure}{75}{section.22.1}%
+\contentsline {section}{\numberline {22.2}Triad Manipulator}{76}{section.22.2}%
+\contentsline {section}{\numberline {22.3}Isometric}{77}{section.22.3}%
+\contentsline {chapter}{\numberline {23}Context Sensitive Left-Click}{78}{chapter.23}%
+\contentsline {section}{\numberline {23.1}Graphics-Area}{78}{section.23.1}%
+\contentsline {section}{\numberline {23.2}Feature Manager}{80}{section.23.2}%
+\contentsline {chapter}{\numberline {24}Context Sensitive Right-Click}{82}{chapter.24}%
+\contentsline {chapter}{\numberline {25}Mouse Gestures}{83}{chapter.25}%
+\contentsline {chapter}{\numberline {26}Breadcrumbs y Acercar Funciones}{84}{chapter.26}%
+\contentsline {chapter}{\numberline {27}Quick-Mates}{87}{chapter.27}%
+\contentsline {chapter}{\numberline {28}Quick-hide and Show Hidden Bodies}{88}{chapter.28}%
+\contentsline {chapter}{\numberline {29}Tree Display Descriptions}{90}{chapter.29}%
+\contentsline {chapter}{\numberline {30}Component Preview Window}{93}{chapter.30}%
+\contentsline {chapter}{\numberline {31}Copy Parts By Dragging}{97}{chapter.31}%
+\contentsline {chapter}{\numberline {32}Assembly Visualization}{98}{chapter.32}%
+\contentsline {chapter}{\numberline {33}Macros}{101}{chapter.33}%
+\contentsline {section}{\numberline {33.1}Agregar un Macro Nuevo}{101}{section.33.1}%
+\contentsline {section}{\numberline {33.2}Sequential Feature Tree}{102}{section.33.2}%
+\contentsline {section}{\numberline {33.3}Toggle Scroll Item Into View}{103}{section.33.3}%
+\contentsline {section}{\numberline {33.4}Horizontal and Aligned Dimension Swap}{104}{section.33.4}%
+\contentsline {section}{\numberline {33.5}Lower Shaded and Draft Quality}{106}{section.33.5}%
+\contentsline {section}{\numberline {33.6}Isometric Views}{107}{section.33.6}%
+\contentsline {chapter}{\numberline {34}Dimension Units}{109}{chapter.34}%
+\contentsline {chapter}{\numberline {35}Dual Unit Measurement}{110}{chapter.35}%
+\contentsline {chapter}{\numberline {36}Cycle Options}{113}{chapter.36}%
+\contentsline {chapter}{\numberline {37}Create Curves With Lines}{114}{chapter.37}%
+\contentsline {chapter}{\numberline {38}Create Multileaders}{116}{chapter.38}%
+\contentsline {chapter}{\numberline {39}Virtual Sharps and Sheet Metal Measurements}{118}{chapter.39}%
+\contentsline {chapter}{\numberline {40}Right-Click In Drawings}{120}{chapter.40}%
+\contentsline {section}{\numberline {40.1}Add Stack To Balloon}{120}{section.40.1}%
+\contentsline {section}{\numberline {40.2}Add To Ordinate}{122}{section.40.2}%
+\contentsline {chapter}{\numberline {41}Cargar Add-In Desde la Apertura}{124}{chapter.41}%
+\contentsline {chapter}{\numberline {42}Sheet Metal Gauge Table}{127}{chapter.42}%
+\contentsline {section}{\numberline {42.1}Configuración}{127}{section.42.1}%
+\contentsline {section}{\numberline {42.2}Uso}{129}{section.42.2}%
+\contentsline {chapter}{\numberline {43}Update Custom Properties}{131}{chapter.43}%
+\contentsline {part}{V\hspace {1em}Apéndices}{134}{part.5}%
+\contentsline {chapter}{\numberline {A}Measure Geometry Code}{135}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Dimedit Home Code}{136}{appendix.Alph2}%
+\contentsline {chapter}{\numberline {C}MM to IN Converter Code}{137}{appendix.Alph3}%
+\contentsline {chapter}{\numberline {D}Remove Annotative Scales}{138}{appendix.Alph4}%
+\contentsline {chapter}{\numberline {E}Sequential Feature Tree Code}{140}{appendix.Alph5}%
+\contentsline {chapter}{\numberline {F}Toggle Scroll Item Into View Code}{148}{appendix.Alph6}%
+\contentsline {chapter}{\numberline {G}Horizontal and Aligned Dimension Swap Code}{149}{appendix.Alph7}%
+\contentsline {chapter}{\numberline {H}Lower Shaded and Draft Quality Code}{151}{appendix.Alph8}%
+\contentsline {chapter}{\numberline {I}Isometric Views}{153}{appendix.Alph9}%
+\contentsline {chapter}{\numberline {J}Anotative Scale Problems and Solutions}{156}{appendix.Alph10}%
+\contentsline {section}{\numberline {J.1}No aparecen}{156}{section.Alph10.1}%
+\contentsline {section}{\numberline {J.2}Fantasmas}{158}{section.Alph10.2}%
+\contentsline {section}{\numberline {J.3}Estilos Distintos}{161}{section.Alph10.3}%

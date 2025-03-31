@@ -1,4 +1,4 @@
-\documentclass{report}
+\documentclass[12pt,letterpaper,final]{report}
 \def\spanishoptions{mexico}
 \usepackage[spanish]{babel}
 \usepackage[obeyspaces]{url}
@@ -173,12 +173,12 @@ Es util cuando se están organizando los correos en carpetas por primera vez.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/outlook_findrelated01}
+	\includegraphics[width=0.65\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/outlook_findrelated01}
 	\caption{Seleccionar el modo de busqueda que se desee}
 	\label{fig:outlookfindrelated01}
 \end{figure}
 
-\vskip50pt
+\pagebreak
 
 {\LARGE Resultado}
 
@@ -305,14 +305,14 @@ Se puede configurar el fondo del programa a cualquier color que se desee.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.75\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_background_02}
+	\includegraphics[width=0.65\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_background_02}
 	\caption{Window Elements\textrightarrow Colors}
 	\label{fig:autocadbackground02}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.75\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_background_03}
+	\includegraphics[width=0.65\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_background_03}
 	\caption{2D Model Space\textrightarrow Uniform Background\textrightarrow Color}
 	\label{fig:autocadbackground03}
 \end{figure}
@@ -323,7 +323,7 @@ Se puede configurar el fondo del programa a cualquier color que se desee.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.65\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_background_04}
+	\includegraphics[width=0.85\linewidth, height=0.75\textheight,keepaspectratio]{Imagenes/autocad_background_04}
 	\caption{Resultado del modelspace y paperspace background}
 	\label{fig:autocadbackground04}
 \end{figure}
@@ -341,6 +341,12 @@ Se recomienda que todos los comandos sean ejecutados el la ventana de comandos y
 	\label{fig:autocadspacebar01}
 \end{figure}
 
+
+\chapter{Drawing Units}
+
+Utilizando el comando \emph{-DWGUNITS} es posible seleccionar las unidades y la visualización de estas en el dibujo actual. También es posible escalar los modelos que se tienen para trabajar en diferentes unidades.
+
+Por ejemplo, si en un espacio de trabajo en pulgadas hay una línea que mide 1 unidad, entonces cuando se ejecuta el comando a milímetros y se selecciona escalar el área de trabajo esa línea ahora tendrá una longitud de 25.4 unidades.
 
 \chapter{Publish Multiple PDF}
 
@@ -372,7 +378,7 @@ Se pueden crear archivos PDF de múltiples dibujos al mismo tiempo utilizando el
 	\fbox{SELECCIONAR LAYOUT ONLY}
 \end{center}
 
-
+\pagebreak
 
 {\LARGE Resultado}
 
@@ -383,6 +389,26 @@ Se pueden crear archivos PDF de múltiples dibujos al mismo tiempo utilizando el
 	\label{fig:autocadpublish04}
 \end{figure}
 
+
+\chapter{Server Directory in Print Popup}
+
+Se puede agregar un servidor al acceso rápido en la ventana emergente de impresión.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_printdirectory_01}
+	\caption{Opciones para remover o agregar directorios}
+	\label{fig:autocadprintdirectory01}
+\end{figure}
+
+{\LARGE Resultado}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_printdirectory_02}
+	\caption{Opciones para remover o agregar directorios}
+	\label{fig:autocadprintdirectory02}
+\end{figure}
 
 \chapter{Ray}
 
@@ -417,6 +443,34 @@ Con el comando \emph{Ray} se define un primer punto que será el origen de la li
 \end{figure}
 
 
+\chapter{Dimspace}
+
+El comando permite crear un espaciamiento enter cotas de tal manera que sean equidistantes. Primero se selecciona una cota base, luego se seleccionan las cotas a espaciar y finalmente se define la distancia a la cual estarán separadas. Es posible asignarles un espaciamiento de 0 para que sean colineares.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_dimspace_01}
+	\caption{Cotas con espaciado no uniforme}
+	\label{fig:autocaddimspace01}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_dimspace_02}
+	\caption{Se ejecuta el comando Dimspace}
+	\label{fig:autocaddimspace02}
+\end{figure}
+
+{\LARGE Resultado}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_dimspace_03}
+	\caption{Resultado del espaciado}
+	\label{fig:autocaddimspace03}
+\end{figure}
+
+
 
 \chapter{Stretch}
 
@@ -443,6 +497,19 @@ Con el comando \emph{Stretch} se pueden modificar los nodos de los elementos mov
 	\label{fig:autocadstretch03}
 \end{figure}
 
+\chapter{Wipeout}
+
+Wipeout es una región en la cual no se dibujan las capas que están atrás de ellas. Puede ser necesario utilizar el comando \emph{Draworder} para mover el wipeout a su posición correcta.
+
+Este puede ser usado para esconder las lineas de extensión de las cotas
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_wipeout_01}
+	\caption{El wipeout esconde las capas que hay atrás}
+	\label{fig:autocadwipeout01}
+\end{figure}
+
 
 \chapter{Create Alias}
 
@@ -461,6 +528,7 @@ Se pueden reconfigurar los atajos para llamar un comando.
 	\caption{Seleccionar Add}
 	\label{fig:autocadalias02}
 \end{figure}
+
 
 \section{Publish}
 
@@ -486,7 +554,39 @@ Se pueden reconfigurar los atajos para llamar un comando.
 	\caption{Resultado del alias para Publish}
 \end{figure}
 
+\section{Copy}
 
+Para ser usado cuando se quiere copiar.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.55\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_copy_01}
+	\caption{Command Alias para Copy}
+	\label{fig:autocadaliascopy01}
+\end{figure}
+
+
+\section{Circle}
+
+Para ser usado cuando se quiere crear un circulo.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.55\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_circle_01}
+	\caption{Command Alias para Circle}
+	\label{fig:autocadaliascircle01}
+\end{figure}
+
+\section{Balloon}
+
+Para ser usado cuando se quiere crear un balloon.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.55\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_mleader_01}
+	\caption{Command Alias para Circle}
+	\label{fig:autocadaliasmleader01}
+\end{figure}
 
 \section{Quit Modelspace}
 
@@ -494,7 +594,7 @@ Para ser usado cuando se quiere salir del modelspace dentro de la hoja de layout
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.7\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_quitmodelspace}
+	\includegraphics[width=0.55\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_quitmodelspace}
 	\caption{Command Alias para Paperspace}
 	\label{fig:autocadaliasquitmodelspace}
 \end{figure}
@@ -505,7 +605,7 @@ Para ser usado cuando se quiere crear un rayo.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.7\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_ray}
+	\includegraphics[width=0.55\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_ray}
 	\caption{Command Alias para Ray}
 	\label{fig:autocadaliasray}
 \end{figure}
@@ -516,7 +616,7 @@ Para ser usado cuando se quiere crear una cota linear.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.7\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_lineardimension}
+	\includegraphics[width=0.55\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_lineardimension}
 	\caption{Command Alias para Dimension Linear}
 	\label{fig:autocadaliaslineardimension}
 \end{figure}
@@ -529,7 +629,7 @@ Para ser usado cuando se quiere crear una cota linear.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.7\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_layeroptions_01}
+	\includegraphics[width=0.55\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_layeroptions_01}
 	\caption{Command Alias para Layer Off}
 	\label{fig:autocadaliaslayeroptions01}
 \end{figure}
@@ -538,7 +638,7 @@ Para ser usado cuando se quiere crear una cota linear.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.7\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_layeroptions_02}
+	\includegraphics[width=0.55\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_layeroptions_02}
 	\caption{Commnand Alias para Layer On}
 \end{figure}
 
@@ -546,7 +646,7 @@ Para ser usado cuando se quiere crear una cota linear.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.7\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_layeroptions_03}
+	\includegraphics[width=0.55\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_layeroptions_03}
 	\caption{Command Alias para Layer Isolate}
 	\label{fig:autocadaliaslayeroptions03}
 \end{figure}
@@ -555,7 +655,7 @@ Para ser usado cuando se quiere crear una cota linear.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.75\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_layeroptions_04}
+	\includegraphics[width=0.55\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/autocad_alias_layeroptions_04}
 	\caption{Command Alias para Layer Freeze}
 	\label{fig:autocadaliaslayeroptions04}
 \end{figure}
@@ -618,10 +718,58 @@ El archivo se encuentra en \path{\\intradeserver\Ingenieria\13 Usuarios\Alberto_
 	\label{fig:autocadmeasuregeom05}
 \end{figure}
 
+\section{Dimedit Home}
+Este LISP ejecuta la función de \emph{Dimedit} y luego el comando \emph{Home}
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_dimedithome_01}
+	\caption{Cotas fuera de su origen}
+	\label{fig:autocaddimedithome01}
+\end{figure}
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_dimedithome_02}
+	\caption{Ejecutas el comando con \emph{HH}}
+	\label{fig:autocaddimedithome02}
+\end{figure}
 
+{\LARGE Resultado}
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_dimedithome_03}
+	\caption{Resultado de ejecutar el comando}
+	\label{fig:autocaddimedithome03}
+\end{figure}
+
+\section{MM to IN Converter}
+
+Este programa te permite convertir un valor de milímetros a pulgadas. La conversión se muestra en la terminal de dos diferentes maneras, la primera está redondeada a la fracción $\tfrac{1}{32}$ más cercana y la segunda es la conversión exacta en decimal.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_mmapulgadas_01}
+	\caption{Comando de milímetros a pulgadas}
+	\label{fig:autocadmmapulgadas01}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_mmapulgadas_02}
+	\caption{Comando de milímetros a pulgadas}
+	\label{fig:autocadmmapulgadas02}
+\end{figure}
+
+{\LARGE Resultado}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/autocad_mmapulgadas_03}
+	\caption{Comando de milímetros a pulgadas}
+	\label{fig:autocadmmapulgadas03}
+\end{figure}
 
 \part{SolidWorks}
 
@@ -928,20 +1076,6 @@ Con la tecla \emph{D} se puede acercar cualquier menú al cursor, este generalme
 	\label{fig:solidworksbreadcrumbs02}
 \end{figure}
 
-\begin{figure}[H]
-	\centering
-	\begin{subfigure}[b]{0.35\textwidth}
-		\includegraphics[width=\textwidth]{Imagenes/solidworks_breadcrumbs_03}
-		\caption{En un sketch}
-		\label{fig:solidworksbreadcrumbs03}
-	\end{subfigure}
-	\begin{subfigure}[b]{0.45\textwidth}
-		\includegraphics[width=\textwidth]{Imagenes/solidworks_breadcrumbs_04}
-		\caption{En una operación}
-		\label{fig:solidworksbreadcrumbs04}
-	\end{subfigure}
-	\caption{Usar \emph{D} para acercar el menú de confirmar/negar}
-\end{figure}
 
 \chapter{Quick-Mates}
 
@@ -1234,10 +1368,12 @@ Se encuentra en \path{\\intradeserver\Ingenieria\13 Usuarios\Alberto_M\ select_s
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.55\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/solidworks_macro_14}
+	\includegraphics[width=0.75\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/solidworks_macro_14}
 	\caption{Detalles del macro}
 	\label{fig:solidworksmacro14}
 \end{figure}
+
+\pagebreak
 
 {\LARGE Resultado}
 
@@ -1256,18 +1392,31 @@ Se encuentra en \path{\\intradeserver\Ingenieria\13 Usuarios\Alberto_M\ select_s
 	\caption{Resultado de lower shaded and draft quality}
 \end{figure}
 
+
+\section{Isometric Views}
+
+En ciertas partes las vistas "isométricas" generadas al seleccionar una de las esquinas del cubo no corresponden a como se debería de representar correctamente una vista isométrica.
+Este programa correctamente genera 8 vistas en una parte o ensamble que corresponden a los posibles ángulos donde pueden existir.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.95\linewidth, height=0.85\textheight,keepaspectratio]{Imagenes/solidworks_isoviews_01}
+	\caption{Vistas isométricas en la inserción de un dibujo}
+	\label{fig:solidworksisoviews01}
+\end{figure}
+
 \chapter{Dimension Units}
 
 Se pueden especificar las unidades que se utilizan al crear una cota con la finalidad de no tener que convertir de pies a pulgadas.
 
 \begin{figure}[H]
 	\centering
-	\begin{subfigure}[b]{0.45\textwidth}
+	\begin{subfigure}[b]{0.35\textwidth}
 		\includegraphics[width=\textwidth]{Imagenes/solidworks_feetin01}
 		\caption{Unidades mixtas}
 		\label{fig:solidworksfeetin01}
 	\end{subfigure}
-	\begin{subfigure}[b]{0.45\textwidth}
+	\begin{subfigure}[b]{0.35\textwidth}
 		\includegraphics[width=\textwidth]{Imagenes/solidworks_feetin02}
 		\caption{Pulgadas}
 		\label{fig:solidworksfeetin02}
@@ -1307,12 +1456,12 @@ Al presionar la tecla \emph{A} al usar una  función se puede ciclar entre las d
 
 \begin{figure}[H]
 	\centering
-	\begin{subfigure}[b]{0.45\textwidth}
+	\begin{subfigure}[b]{0.35\textwidth}
 		\includegraphics[width=\textwidth]{Imagenes/solidworks_ciclarcona01}
 		\caption{Opción predeterminada}
 		\label{fig:solidworksciclarcona01}
 	\end{subfigure}
-	\begin{subfigure}[b]{0.45\textwidth}
+	\begin{subfigure}[b]{0.35\textwidth}
 		\includegraphics[width=\textwidth]{Imagenes/solidworks_ciclarcona02}
 		\caption{Depués de oprimir \emph{A}}
 		\label{fig:solidworksciclarcona02}
@@ -1355,6 +1504,9 @@ Se pueden crear multileaders al mantener presionada la tecla \emph{CTRL} y arras
 	\caption{Se arrastra el nodo de un lider manteniendo \emph{CTRL} oprimido}
 	\label{fig:solidworksmultileader01}
 \end{figure}
+
+
+\pagebreak
 
 {\LARGE Resultado}
 
@@ -1426,7 +1578,7 @@ Se puede agregar una cota ordenada al oprimir \emph{Add to Ordinate}
 	\label{fig:solidworksaddtoordinate01}
 \end{figure}
 
-\vskip50pt
+\pagebreak
 
 {\LARGE Resultado}
 
@@ -1521,14 +1673,14 @@ Utilizando el SOLIDWORKS Task Scheduler se pueden introducir valores para las pr
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.65\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/solidworks_updatecustomprop02}
+	\includegraphics[width=0.65\linewidth, height=0.35\textheight,keepaspectratio]{Imagenes/solidworks_updatecustomprop02}
 	\caption{Se agregan los archivos o las carpetas donde se aplicará}
 	\label{fig:solidworksupdatecustomprop02}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.65\linewidth, height=0.45\textheight,keepaspectratio]{Imagenes/solidworks_updatecustomprop03}
+	\includegraphics[width=0.65\linewidth, height=0.35\textheight,keepaspectratio]{Imagenes/solidworks_updatecustomprop03}
 	\caption{Se introduce el nombre de la propiedad y el valor que va a tomar}
 	\label{fig:solidworksupdatecustomprop03}
 \end{figure}
@@ -1547,6 +1699,7 @@ Utilizando el SOLIDWORKS Task Scheduler se pueden introducir valores para las pr
 \part{Apéndices}
 
 \appendix
+%\renewcommand{\thesection}{\Roman{section}}
 
 \chapter{Measure Geometry Code}
 
@@ -1569,10 +1722,69 @@ Utilizando el SOLIDWORKS Task Scheduler se pueden introducir valores para las pr
 	)
 \end{lstlisting}
 
+\chapter{Dimedit Home Code}
+
+\begin{lstlisting}[language=Lisp]
+	(defun c:HH ()
+	(command "_.DIMEDIT" "_HOME") ; Activar Dimedit en Home
+	(princ)
+	)
+\end{lstlisting}
+
+\chapter{MM to IN Converter Code}
+\begin{lstlisting}[language=Lisp]
+	(defun c:MMAPULGADAS (/ mm inches)
+	(setq mm (getreal "\nIntroduza el valor en milimetros: "))  ; Entrada en milimetros
+	(setq inches (cvunit mm "mm" "in"))  ; Convertir milimetros a pulgadas
+	(princ (strcat "\n" (rtos inches 4 5))); Imprimirlo en fraccion 1/32 mas cercana
+	(princ (strcat "\n" (rtos inches 2 5) " pulgadas"))  ; Imprimirlo con 5 decimales
+	(princ)
+	)
+\end{lstlisting}
+
+\chapter{Remove Annotative Scales}
+
+\begin{lstlisting}[language=Lisp]
+	(defun c:Fantasmas (/ disdg dd_ss)(vl-load-com)
+	(setq disdg (vla-get-activedocument (vlax-get-acad-object))
+	dd_ss (vla-get-selectionsets disdg) exs:set nil)
+	(vla-setvariable disdg "cmdecho" 0)
+	(vlax-for item dd_ss (if (= (vla-get-name item) "AnoSet") (setq exs:set T))
+	)
+	(if exs:set (vla-delete (vla-item dd_ss "AnoSet"))
+	)
+	(setq dd_sset (vla-add dd_ss "AnoSet") nmtr 0 )
+	(vla-selectonscreen dd_sset )
+	(repeat (vla-get-count dd_sset)
+	(setq obg (vla-item dd_sset nmtr) str_scl (vla-GetExtensionDictionary obg))
+	(if (> (vla-get-count str_scl) 0)
+	(progn (setq  frst (vla-item str_scl 0))
+	(vl-cmdf "._ObjectScale" (vlax-vla-object->ename obg) "" "Add" (getvar "CANNOSCALE") "")
+	(gt_scl frst))
+	)
+	(setq nmtr (1+ nmtr))
+	)
+	)
+	(defun gt_scl (frst / i2nyun tr1) 
+	(setq scl_lst (vla-item frst 0) scl_lstt nil)
+	(if (> (vla-get-count scl_lst) 1)(progn
+	(vlax-for vegeta scl_lst  
+	(setq i2nyun (entget (vlax-vla-object->ename vegeta)))
+	(setq tr1 (entget (cdr (assoc 340 i2nyun))))
+	(setq scl_lstt (cons (cdr (assoc 300 tr1)) scl_lstt ))
+	)
+	(vl-cmdf "._ObjectScale" (vlax-vla-object->ename obg) "" "delete")
+	(foreach sc_nm scl_lstt
+	(if (/=  sc_nm (getvar "CANNOSCALE"))
+	(vl-cmdf sc_nm))
+	)(vl-cmdf "")    
+	
+	)
+	) 
+	)
+\end{lstlisting}
+
 \chapter{Sequential Feature Tree Code}
-
-
-
 
 \begin{lstlisting}
 	Dim swApp As SldWorks.SldWorks
@@ -1950,5 +2162,224 @@ Utilizando el SOLIDWORKS Task Scheduler se pueden introducir valores para las pr
 	
 	End Sub
 \end{lstlisting}
+
+\chapter{Isometric Views}
+
+\begin{lstlisting}
+	 ' *************************************************************
+	' ISOViews.swp - macro recorded on 12/20/01 by Mike J. Wilson
+	' *************************************************************
+	' Special thanks to Dennis Kelley and Dan Hanger for tips
+	
+	Dim swApp As Object
+	Dim Part As Object
+	Dim boolstatus As Boolean
+	Dim longstatus As Long
+	Dim Annotation As Object
+	Dim Gtol As Object
+	Dim DatumTag As Object
+	Dim FeatureData As Object
+	Dim Feature As Object
+	Dim Component As Object
+	
+	Sub main()
+	
+	Set swApp = CreateObject("SldWorks.Application")
+	Set Part = swApp.ActiveDoc
+	
+	pi = 4 * Atn(1)
+	Z = Tan(30 * pi / 180)
+	X = Atn(Z / Sqr(-Z * Z + 1))
+	Y = -45 * pi / 180
+	
+	
+	Part.DeleteNamedView ("TRF-ISO")
+	Part.DeleteNamedView ("TRR-ISO")
+	Part.DeleteNamedView ("TLF-ISO")
+	Part.DeleteNamedView ("TLR-ISO")
+	
+	Part.DeleteNamedView ("BRF-ISO")
+	Part.DeleteNamedView ("BRR-ISO")
+	Part.DeleteNamedView ("BLF-ISO")
+	Part.DeleteNamedView ("BLR-ISO")
+	
+	Part.DeleteNamedView ("TopRightFront")
+	Part.DeleteNamedView ("TopRightRear")
+	Part.DeleteNamedView ("TopLeftRear")
+	Part.DeleteNamedView ("TopLeftFront")
+	
+	Part.DeleteNamedView ("BottomRightFront")
+	Part.DeleteNamedView ("BottomRightRear")
+	Part.DeleteNamedView ("BottomLeftRear")
+	Part.DeleteNamedView ("BottomLeftFront")
+	
+	
+	Part.ShowNamedView2 "*Front", -1
+	Part.ActiveView().RotateAboutCenter X, Y
+	Part.ViewZoomtofit
+	
+	Part.NameView ("TopRightFront")
+	
+	
+	
+	Part.ShowNamedView2 "*Right", -1
+	Part.ActiveView().RotateAboutCenter X, Y
+	Part.ViewZoomtofit
+	
+	Part.NameView ("TopRightRear")
+	
+	
+	
+	Part.ShowNamedView2 "*Back", -1
+	Part.ActiveView().RotateAboutCenter X, Y
+	Part.ViewZoomtofit
+	
+	Part.NameView ("TopLeftRear")
+	
+	
+	
+	Part.ShowNamedView2 "*Left", -1
+	Part.ActiveView().RotateAboutCenter X, Y
+	Part.ViewZoomtofit
+	
+	Part.NameView ("TopLeftFront")
+	
+	Part.ShowNamedView2 "*Front", -1
+	Part.ActiveView().RotateAboutCenter -X, Y
+	Part.ViewZoomtofit
+	Part.NameView ("BottomRightFront")
+	
+	Part.ShowNamedView2 "*Right", -1
+	Part.ActiveView().RotateAboutCenter -X, Y
+	Part.ViewZoomtofit
+	Part.NameView ("BottomRightRear")
+	
+	Part.ShowNamedView2 "*Back", -1
+	Part.ActiveView().RotateAboutCenter -X, Y
+	Part.ViewZoomtofit
+	Part.NameView ("BottomLeftRear")
+	
+	Part.ShowNamedView2 "*Left", -1
+	Part.ActiveView().RotateAboutCenter -X, Y
+	Part.ViewZoomtofit
+	Part.NameView ("BottomLeftFront")
+	
+	
+	Set Part = Nothing
+	Set swApp = Nothing
+	
+	
+	End Sub
+\end{lstlisting}
+
+\chapter{Anotative Scale Problems and Solutions}
+
+\section{No aparecen}
+
+Esto sucede porque el botón que habilita su visualización “apagado” o inhabilitado, en este modo, AutoCAD mostrará únicamente los objetos anotativos en la escala actual del dibujo.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/apendice_anotative_01}
+	\caption{No se despliegan objetos anotativos}
+	\label{fig:apendiceanotative01}
+\end{figure}
+
+{\LARGE Solución}
+
+Se debe de encender el botón de \emph{Show annotation objects} a \emph{Always}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/apendice_anotative_02}
+	\caption{Encender el botón para visualizar objetos anotativos}
+	\label{fig:apendiceanotative02}
+\end{figure}
+
+\pagebreak
+
+\section{Fantasmas}
+
+Esto sucede porque se han utilizado objetos anotativos con diferentes escalas
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/apendice_anotative_03}
+	\caption{Objetos anotativos fantasmas}
+	\label{fig:apendiceanotative03}
+\end{figure}
+
+{\LARGE Solución 1}
+
+Seleccionar los objetos anotativos y en la barra de selección seleccionar el objeto anotativo para poder editar sus escalas. Borrar las escalas que no se utilizarán.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.95\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/apendice_anotative_04}
+	\caption{Seleccionar todos los objetos y seleccionar los objetos anotativos}
+	\label{fig:apendiceanotative04}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/apendice_anotative_05}
+	\caption{Seleccionar la escala de los objetos}
+	\label{fig:apendiceanotative05}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\begin{subfigure}[b]{0.45\textwidth}
+		\includegraphics[width=\textwidth]{Imagenes/apendice_anotative_06}
+		\caption{Seleccionar las escalas}
+		\label{fig:apendiceanotative06}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.45\textwidth}
+		\includegraphics[width=\textwidth]{Imagenes/apendice_anotative_07}
+		\caption{Borrar las escalas}
+		\label{fig:apendiceanotative07}
+	\end{subfigure}
+	\caption{Borrar las escalas no usadas}
+\end{figure}
+
+{\LARGE Solución 2}
+
+Se seleccionan los objetos anotativos y se ejecuta el LISP para remover escalas anotativas.
+El programa funciona en dos pasos.
+
+\begin{enumerate}
+	\item Borrar todas las escalas anotativas que existen en ese objeto
+	\item Agregar una escala anotativa igual a la escala actual del dibujo
+\end{enumerate}
+
+\section{Estilos Distintos}
+
+Esto sucede porque están dados de alta más de un estilo de dimensiones y se trazó en un estilo diferente a las demás.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.95\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/apendice_anotative_08}
+	\caption{La dimensión 7'-4" [2235] es distinta a las demás}
+	\label{fig:apendiceanotative08}
+\end{figure}
+
+{\LARGE Solución}
+
+Se seleccionan las cotas distintas y en el menú superior se cambia su estilo al deseado.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.85\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/apendice_anotative_09}
+	\caption{Se elige el estilo al que van a ser cambiadas las cotas}
+	\label{fig:apendiceanotative09}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.95\linewidth, height=0.5\textheight,keepaspectratio]{Imagenes/apendice_anotative_10}
+	\caption{La cota se cambia al mismo estilo}
+	\label{fig:apendiceanotative10}
+\end{figure}
+
 
 \end{document}
