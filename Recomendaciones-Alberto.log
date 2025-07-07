@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.31)  31 MAR 2025 11:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.31)  7 JUL 2025 09:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -574,12 +574,12 @@ l.18 ... {11}Publish Multiple PDF}{34}{chapter.11}
 
 ]
 Cap\'{\i }tulo 1.
-<Imagenes/fe_dark_mode01.png, id=236, 904.88063pt x 703.12688pt>
+<Imagenes/fe_dark_mode01.png, id=240, 904.88063pt x 703.12688pt>
 File: Imagenes/fe_dark_mode01.png Graphic file (type png)
 <use Imagenes/fe_dark_mode01.png>
 Package pdftex.def Info: Imagenes/fe_dark_mode01.png  used on input line 40.
 (pdftex.def)             Requested size: 331.50064pt x 257.58867pt.
-<Imagenes/fe_dark_mode02.png, id=238, 904.88063pt x 703.12688pt>
+<Imagenes/fe_dark_mode02.png, id=242, 904.88063pt x 703.12688pt>
 File: Imagenes/fe_dark_mode02.png Graphic file (type png)
 <use Imagenes/fe_dark_mode02.png>
 Package pdftex.def Info: Imagenes/fe_dark_mode02.png  used on input line 47.
@@ -589,7 +589,7 @@ Package pdftex.def Info: Imagenes/fe_dark_mode02.png  used on input line 47.
 [7
 
  <./Imagenes/fe_dark_mode01.png>]
-<Imagenes/fe_dark_mode03.png, id=246, 694.09312pt x 569.87906pt>
+<Imagenes/fe_dark_mode03.png, id=250, 694.09312pt x 569.87906pt>
 File: Imagenes/fe_dark_mode03.png Graphic file (type png)
 <use Imagenes/fe_dark_mode03.png>
 Package pdftex.def Info: Imagenes/fe_dark_mode03.png  used on input line 54.
@@ -600,12 +600,12 @@ Package pdftex.def Info: Imagenes/fe_dark_mode03.png  used on input line 54.
 
 [9 <./Imagenes/fe_dark_mode03.png>]
 Cap\'{\i }tulo 2.
-<Imagenes/fe_prop_desc.png, id=259, 636.87938pt x 337.26pt>
+<Imagenes/fe_prop_desc.png, id=263, 636.87938pt x 337.26pt>
 File: Imagenes/fe_prop_desc.png Graphic file (type png)
 <use Imagenes/fe_prop_desc.png>
 Package pdftex.def Info: Imagenes/fe_prop_desc.png  used on input line 66.
 (pdftex.def)             Requested size: 370.49814pt x 196.19759pt.
-<Imagenes/fe_prop_desc_02.png, id=260, 256.70906pt x 338.76563pt>
+<Imagenes/fe_prop_desc_02.png, id=264, 256.70906pt x 338.76563pt>
 File: Imagenes/fe_prop_desc_02.png Graphic file (type png)
 <use Imagenes/fe_prop_desc_02.png>
 Package pdftex.def Info: Imagenes/fe_prop_desc_02.png  used on input line 73.
@@ -615,12 +615,12 @@ Package pdftex.def Info: Imagenes/fe_prop_desc_02.png  used on input line 73.
 [10
 
  <./Imagenes/fe_prop_desc.png>]
-<Imagenes/fe_prop_desc_03.png, id=267, 881.54344pt x 130.23656pt>
+<Imagenes/fe_prop_desc_03.png, id=271, 881.54344pt x 130.23656pt>
 File: Imagenes/fe_prop_desc_03.png Graphic file (type png)
 <use Imagenes/fe_prop_desc_03.png>
 Package pdftex.def Info: Imagenes/fe_prop_desc_03.png  used on input line 80.
 (pdftex.def)             Requested size: 370.5013pt x 54.73672pt.
-<Imagenes/fe_prop_desc_04.png, id=268, 287.57437pt x 357.58594pt>
+<Imagenes/fe_prop_desc_04.png, id=272, 287.57437pt x 357.58594pt>
 File: Imagenes/fe_prop_desc_04.png Graphic file (type png)
 <use Imagenes/fe_prop_desc_04.png>
 Package pdftex.def Info: Imagenes/fe_prop_desc_04.png  used on input line 87.
@@ -628,7 +628,7 @@ Package pdftex.def Info: Imagenes/fe_prop_desc_04.png  used on input line 87.
 
 
 [11 <./Imagenes/fe_prop_desc_02.png> <./Imagenes/fe_prop_desc_03.png>]
-<Imagenes/fe_prop_desc_05.png, id=279, 337.26pt x 94.10156pt>
+<Imagenes/fe_prop_desc_05.png, id=283, 337.26pt x 94.10156pt>
 File: Imagenes/fe_prop_desc_05.png Graphic file (type png)
 <use Imagenes/fe_prop_desc_05.png>
 Package pdftex.def Info: Imagenes/fe_prop_desc_05.png  used on input line 94.
@@ -636,7 +636,7 @@ Package pdftex.def Info: Imagenes/fe_prop_desc_05.png  used on input line 94.
 
 
 [12 <./Imagenes/fe_prop_desc_04.png> <./Imagenes/fe_prop_desc_05.png>]
-<Imagenes/fe_prop_desc_06.png, id=289, 710.655pt x 243.15843pt>
+<Imagenes/fe_prop_desc_06.png, id=293, 710.655pt x 243.15843pt>
 File: Imagenes/fe_prop_desc_06.png Graphic file (type png)
 <use Imagenes/fe_prop_desc_06.png>
 Package pdftex.def Info: Imagenes/fe_prop_desc_06.png  used on input line 105.
@@ -647,12 +647,12 @@ Package pdftex.def Info: Imagenes/fe_prop_desc_06.png  used on input line 105.
 
  <./Imagenes/fe_prop_desc_06.png>]
 Cap\'{\i }tulo 3.
-<Imagenes/fe_division_01.png, id=296, 243.15843pt x 110.66344pt>
+<Imagenes/fe_division_01.png, id=300, 243.15843pt x 110.66344pt>
 File: Imagenes/fe_division_01.png Graphic file (type png)
 <use Imagenes/fe_division_01.png>
 Package pdftex.def Info: Imagenes/fe_division_01.png  used on input line 116.
 (pdftex.def)             Requested size: 214.49951pt x 97.6205pt.
-<Imagenes/fe_division_02.png, id=297, 239.39438pt x 210.03468pt>
+<Imagenes/fe_division_02.png, id=301, 239.39438pt x 210.03468pt>
 File: Imagenes/fe_division_02.png Graphic file (type png)
 <use Imagenes/fe_division_02.png>
 Package pdftex.def Info: Imagenes/fe_division_02.png  used on input line 123.
@@ -664,7 +664,7 @@ Package pdftex.def Info: Imagenes/fe_division_02.png  used on input line 123.
  <./Imagenes/fe_division_01.png>]
 
 [15 <./Imagenes/fe_division_02.png>]
-<Imagenes/fe_division_03.png, id=310, 145.29282pt x 505.13719pt>
+<Imagenes/fe_division_03.png, id=314, 145.29282pt x 505.13719pt>
 File: Imagenes/fe_division_03.png Graphic file (type png)
 <use Imagenes/fe_division_03.png>
 Package pdftex.def Info: Imagenes/fe_division_03.png  used on input line 134.
@@ -679,13 +679,13 @@ Package pdftex.def Info: Imagenes/fe_division_03.png  used on input line 134.
 
 ]
 Cap\'{\i }tulo 4.
-<Imagenes/outlook_createfolders01.png, id=321, 250.68657pt x 363.60844pt>
+<Imagenes/outlook_createfolders01.png, id=325, 250.68657pt x 363.60844pt>
 File: Imagenes/outlook_createfolders01.png Graphic file (type png)
 <use Imagenes/outlook_createfolders01.png>
 Package pdftex.def Info: Imagenes/outlook_createfolders01.png  used on input li
 ne 147.
 (pdftex.def)             Requested size: 189.0855pt x 274.25916pt.
-<Imagenes/outlook_createfolders02.png, id=322, 237.88875pt x 276.28218pt>
+<Imagenes/outlook_createfolders02.png, id=326, 237.88875pt x 276.28218pt>
 File: Imagenes/outlook_createfolders02.png Graphic file (type png)
 <use Imagenes/outlook_createfolders02.png>
 Package pdftex.def Info: Imagenes/outlook_createfolders02.png  used on input li
@@ -696,7 +696,7 @@ ne 154.
 [18
 
  <./Imagenes/outlook_createfolders01.png>]
-<Imagenes/outlook_createfolders03.png, id=330, 172.39406pt x 137.7647pt>
+<Imagenes/outlook_createfolders03.png, id=334, 172.39406pt x 137.7647pt>
 File: Imagenes/outlook_createfolders03.png Graphic file (type png)
 <use Imagenes/outlook_createfolders03.png>
 Package pdftex.def Info: Imagenes/outlook_createfolders03.png  used on input li
@@ -707,7 +707,7 @@ ne 163.
 [19 <./Imagenes/outlook_createfolders02.png> <./Imagenes/outlook_createfolders0
 3.png>]
 Cap\'{\i }tulo 5.
-<Imagenes/outlook_findrelated01.png, id=339, 416.30531pt x 541.27219pt>
+<Imagenes/outlook_findrelated01.png, id=343, 416.30531pt x 541.27219pt>
 File: Imagenes/outlook_findrelated01.png Graphic file (type png)
 <use Imagenes/outlook_findrelated01.png>
 Package pdftex.def Info: Imagenes/outlook_findrelated01.png  used on input line
@@ -718,7 +718,7 @@ Package pdftex.def Info: Imagenes/outlook_findrelated01.png  used on input line
 [20
 
  <./Imagenes/outlook_findrelated01.png>]
-<Imagenes/outlook_findrelated02.png, id=346, 1227.08438pt x 764.8575pt>
+<Imagenes/outlook_findrelated02.png, id=350, 1227.08438pt x 764.8575pt>
 File: Imagenes/outlook_findrelated02.png Graphic file (type png)
 <use Imagenes/outlook_findrelated02.png>
 Package pdftex.def Info: Imagenes/outlook_findrelated02.png  used on input line
@@ -728,12 +728,12 @@ Package pdftex.def Info: Imagenes/outlook_findrelated02.png  used on input line
 
 [21 <./Imagenes/outlook_findrelated02.png>]
 Cap\'{\i }tulo 6.
-<Imagenes/outlook_rules01.png, id=353, 467.49657pt x 539.01375pt>
+<Imagenes/outlook_rules01.png, id=357, 467.49657pt x 539.01375pt>
 File: Imagenes/outlook_rules01.png Graphic file (type png)
 <use Imagenes/outlook_rules01.png>
 Package pdftex.def Info: Imagenes/outlook_rules01.png  used on input line 200.
 (pdftex.def)             Requested size: 214.07375pt x 246.82254pt.
-<Imagenes/outlook_rules02.png, id=354, 263.48438pt x 222.8325pt>
+<Imagenes/outlook_rules02.png, id=358, 263.48438pt x 222.8325pt>
 File: Imagenes/outlook_rules02.png Graphic file (type png)
 <use Imagenes/outlook_rules02.png>
 Package pdftex.def Info: Imagenes/outlook_rules02.png  used on input line 207.
@@ -743,12 +743,12 @@ Package pdftex.def Info: Imagenes/outlook_rules02.png  used on input line 207.
 [22
 
  <./Imagenes/outlook_rules01.png>]
-<Imagenes/outlook_rules03.png, id=361, 452.4403pt x 536.75531pt>
+<Imagenes/outlook_rules03.png, id=365, 452.4403pt x 536.75531pt>
 File: Imagenes/outlook_rules03.png Graphic file (type png)
 <use Imagenes/outlook_rules03.png>
 Package pdftex.def Info: Imagenes/outlook_rules03.png  used on input line 217.
 (pdftex.def)             Requested size: 161.82213pt x 191.97865pt.
-<Imagenes/outlook_rules04.png, id=362, 328.97906pt x 211.54031pt>
+<Imagenes/outlook_rules04.png, id=366, 328.97906pt x 211.54031pt>
 File: Imagenes/outlook_rules04.png Graphic file (type png)
 <use Imagenes/outlook_rules04.png>
 Package pdftex.def Info: Imagenes/outlook_rules04.png  used on input line 224.
@@ -756,12 +756,12 @@ Package pdftex.def Info: Imagenes/outlook_rules04.png  used on input line 224.
 
 
 [23 <./Imagenes/outlook_rules02.png> <./Imagenes/outlook_rules03.png>]
-<Imagenes/outlook_rules05.png, id=371, 307.1475pt x 103.13531pt>
+<Imagenes/outlook_rules05.png, id=375, 307.1475pt x 103.13531pt>
 File: Imagenes/outlook_rules05.png Graphic file (type png)
 <use Imagenes/outlook_rules05.png>
 Package pdftex.def Info: Imagenes/outlook_rules05.png  used on input line 233.
 (pdftex.def)             Requested size: 292.51959pt x 98.22346pt.
-<Imagenes/outlook_rules06.png, id=372, 560.8453pt x 732.48656pt>
+<Imagenes/outlook_rules06.png, id=376, 560.8453pt x 732.48656pt>
 File: Imagenes/outlook_rules06.png Graphic file (type png)
 <use Imagenes/outlook_rules06.png>
 Package pdftex.def Info: Imagenes/outlook_rules06.png  used on input line 244.
@@ -769,7 +769,7 @@ Package pdftex.def Info: Imagenes/outlook_rules06.png  used on input line 244.
 
 
 [24 <./Imagenes/outlook_rules04.png> <./Imagenes/outlook_rules05.png>]
-<Imagenes/outlook_rules07.png, id=382, 434.37282pt x 358.33875pt>
+<Imagenes/outlook_rules07.png, id=386, 434.37282pt x 358.33875pt>
 File: Imagenes/outlook_rules07.png Graphic file (type png)
 <use Imagenes/outlook_rules07.png>
 Package pdftex.def Info: Imagenes/outlook_rules07.png  used on input line 251.
@@ -782,14 +782,14 @@ Package pdftex.def Info: Imagenes/outlook_rules07.png  used on input line 251.
 
 ]
 Cap\'{\i }tulo 7.
-<Imagenes/autocad_display_resolution_01.png, id=395, 215.30438pt x 182.18062pt>
+<Imagenes/autocad_display_resolution_01.png, id=399, 215.30438pt x 182.18062pt>
 
 File: Imagenes/autocad_display_resolution_01.png Graphic file (type png)
 <use Imagenes/autocad_display_resolution_01.png>
 Package pdftex.def Info: Imagenes/autocad_display_resolution_01.png  used on in
 put line 265.
 (pdftex.def)             Requested size: 292.52754pt x 247.52327pt.
-<Imagenes/autocad_display_resolution_02.png, id=396, 246.9225pt x 94.85437pt>
+<Imagenes/autocad_display_resolution_02.png, id=400, 246.9225pt x 94.85437pt>
 File: Imagenes/autocad_display_resolution_02.png Graphic file (type png)
 <use Imagenes/autocad_display_resolution_02.png>
 Package pdftex.def Info: Imagenes/autocad_display_resolution_02.png  used on in
@@ -800,14 +800,14 @@ put line 272.
 [27
 
  <./Imagenes/autocad_display_resolution_01.png>]
-<Imagenes/autocad_display_resolution_03.png, id=403, 529.22719pt x 520.94624pt>
+<Imagenes/autocad_display_resolution_03.png, id=407, 529.22719pt x 520.94624pt>
 
 File: Imagenes/autocad_display_resolution_03.png Graphic file (type png)
 <use Imagenes/autocad_display_resolution_03.png>
 Package pdftex.def Info: Imagenes/autocad_display_resolution_03.png  used on in
 put line 283.
 (pdftex.def)             Requested size: 175.49881pt x 172.74744pt.
-<Imagenes/autocad_display_resolution_04.png, id=404, 530.73282pt x 523.20468pt>
+<Imagenes/autocad_display_resolution_04.png, id=408, 530.73282pt x 523.20468pt>
 
 File: Imagenes/autocad_display_resolution_04.png Graphic file (type png)
 <use Imagenes/autocad_display_resolution_04.png>
@@ -819,13 +819,13 @@ put line 288.
 [28 <./Imagenes/autocad_display_resolution_02.png> <./Imagenes/autocad_display_
 resolution_03.png> <./Imagenes/autocad_display_resolution_04.png>]
 Cap\'{\i }tulo 8.
-<Imagenes/autocad_background_01.png, id=415, 207.77625pt x 175.40532pt>
+<Imagenes/autocad_background_01.png, id=419, 207.77625pt x 175.40532pt>
 File: Imagenes/autocad_background_01.png Graphic file (type png)
 <use Imagenes/autocad_background_01.png>
 Package pdftex.def Info: Imagenes/autocad_background_01.png  used on input line
  301.
 (pdftex.def)             Requested size: 292.53336pt x 246.9575pt.
-<Imagenes/autocad_background_02.png, id=416, 531.48563pt x 433.62pt>
+<Imagenes/autocad_background_02.png, id=420, 531.48563pt x 433.62pt>
 File: Imagenes/autocad_background_02.png Graphic file (type png)
 <use Imagenes/autocad_background_02.png>
 Package pdftex.def Info: Imagenes/autocad_background_02.png  used on input line
@@ -836,7 +836,7 @@ Package pdftex.def Info: Imagenes/autocad_background_02.png  used on input line
 [29
 
  <./Imagenes/autocad_background_01.png>]
-<Imagenes/autocad_background_03.png, id=423, 423.08063pt x 407.27156pt>
+<Imagenes/autocad_background_03.png, id=427, 423.08063pt x 407.27156pt>
 File: Imagenes/autocad_background_03.png Graphic file (type png)
 <use Imagenes/autocad_background_03.png>
 Package pdftex.def Info: Imagenes/autocad_background_03.png  used on input line
@@ -846,7 +846,7 @@ Package pdftex.def Info: Imagenes/autocad_background_03.png  used on input line
 
 [30 <./Imagenes/autocad_background_02.png> <./Imagenes/autocad_background_03.pn
 g>]
-<Imagenes/autocad_background_04.png, id=433, 983.92593pt x 627.84563pt>
+<Imagenes/autocad_background_04.png, id=437, 983.92593pt x 627.84563pt>
 File: Imagenes/autocad_background_04.png Graphic file (type png)
 <use Imagenes/autocad_background_04.png>
 Package pdftex.def Info: Imagenes/autocad_background_04.png  used on input line
@@ -858,7 +858,7 @@ Package pdftex.def Info: Imagenes/autocad_background_04.png  used on input line
 
  <./Imagenes/autocad_background_04.png>]
 Cap\'{\i }tulo 9.
-<Imagenes/autocad_spacebar01.png, id=440, 112.16907pt x 101.62968pt>
+<Imagenes/autocad_spacebar01.png, id=444, 112.16907pt x 101.62968pt>
 File: Imagenes/autocad_spacebar01.png Graphic file (type png)
 <use Imagenes/autocad_spacebar01.png>
 Package pdftex.def Info: Imagenes/autocad_spacebar01.png  used on input line 33
@@ -876,13 +876,13 @@ Cap\'{\i }tulo 10.
 
 ]
 Cap\'{\i }tulo 11.
-<Imagenes/autocad_publish_01.png, id=451, 194.97844pt x 171.64125pt>
+<Imagenes/autocad_publish_01.png, id=455, 194.97844pt x 171.64125pt>
 File: Imagenes/autocad_publish_01.png Graphic file (type png)
 <use Imagenes/autocad_publish_01.png>
 Package pdftex.def Info: Imagenes/autocad_publish_01.png  used on input line 35
 7.
 (pdftex.def)             Requested size: 292.51155pt x 257.50049pt.
-<Imagenes/autocad_publish_02.png, id=452, 581.17125pt x 496.10344pt>
+<Imagenes/autocad_publish_02.png, id=456, 581.17125pt x 496.10344pt>
 File: Imagenes/autocad_publish_02.png Graphic file (type png)
 <use Imagenes/autocad_publish_02.png>
 Package pdftex.def Info: Imagenes/autocad_publish_02.png  used on input line 36
@@ -893,7 +893,7 @@ Package pdftex.def Info: Imagenes/autocad_publish_02.png  used on input line 36
 [34
 
  <./Imagenes/autocad_publish_01.png>]
-<Imagenes/autocad_publish_03.png, id=459, 484.81125pt x 381.67593pt>
+<Imagenes/autocad_publish_03.png, id=463, 484.81125pt x 381.67593pt>
 File: Imagenes/autocad_publish_03.png Graphic file (type png)
 <use Imagenes/autocad_publish_03.png>
 Package pdftex.def Info: Imagenes/autocad_publish_03.png  used on input line 37
@@ -904,7 +904,7 @@ Package pdftex.def Info: Imagenes/autocad_publish_03.png  used on input line 37
 [35 <./Imagenes/autocad_publish_02.png>]
 
 [36 <./Imagenes/autocad_publish_03.png>]
-<Imagenes/autocad_publish_04.png, id=473, 581.17125pt x 496.10344pt>
+<Imagenes/autocad_publish_04.png, id=477, 581.17125pt x 496.10344pt>
 File: Imagenes/autocad_publish_04.png Graphic file (type png)
 <use Imagenes/autocad_publish_04.png>
 Package pdftex.def Info: Imagenes/autocad_publish_04.png  used on input line 38
@@ -914,13 +914,13 @@ Package pdftex.def Info: Imagenes/autocad_publish_04.png  used on input line 38
 
 [37 <./Imagenes/autocad_publish_04.png>]
 Cap\'{\i }tulo 12.
-<Imagenes/autocad_printdirectory_01.png, id=480, 484.81125pt x 381.67593pt>
+<Imagenes/autocad_printdirectory_01.png, id=484, 484.81125pt x 381.67593pt>
 File: Imagenes/autocad_printdirectory_01.png Graphic file (type png)
 <use Imagenes/autocad_printdirectory_01.png>
 Package pdftex.def Info: Imagenes/autocad_printdirectory_01.png  used on input 
 line 399.
 (pdftex.def)             Requested size: 331.51668pt x 260.99217pt.
-<Imagenes/autocad_printdirectory_02.png, id=481, 484.81125pt x 381.67593pt>
+<Imagenes/autocad_printdirectory_02.png, id=485, 484.81125pt x 381.67593pt>
 File: Imagenes/autocad_printdirectory_02.png Graphic file (type png)
 <use Imagenes/autocad_printdirectory_02.png>
 Package pdftex.def Info: Imagenes/autocad_printdirectory_02.png  used on input 
@@ -934,12 +934,12 @@ line 408.
 
 [39 <./Imagenes/autocad_printdirectory_02.png>]
 Cap\'{\i }tulo 13.
-<Imagenes/autocad_ray01.png, id=494, 216.05719pt x 181.42781pt>
+<Imagenes/autocad_ray01.png, id=498, 216.05719pt x 181.42781pt>
 File: Imagenes/autocad_ray01.png Graphic file (type png)
 <use Imagenes/autocad_ray01.png>
 Package pdftex.def Info: Imagenes/autocad_ray01.png  used on input line 419.
 (pdftex.def)             Requested size: 253.50786pt x 212.87595pt.
-<Imagenes/autocad_ray02.png, id=495, 663.22781pt x 557.08125pt>
+<Imagenes/autocad_ray02.png, id=499, 663.22781pt x 557.08125pt>
 File: Imagenes/autocad_ray02.png Graphic file (type png)
 <use Imagenes/autocad_ray02.png>
 Package pdftex.def Info: Imagenes/autocad_ray02.png  used on input line 426.
@@ -949,7 +949,7 @@ Package pdftex.def Info: Imagenes/autocad_ray02.png  used on input line 426.
 [40
 
  <./Imagenes/autocad_ray01.png>]
-<Imagenes/autocad_ray03.png, id=502, 423.08063pt x 382.42876pt>
+<Imagenes/autocad_ray03.png, id=506, 423.08063pt x 382.42876pt>
 File: Imagenes/autocad_ray03.png Graphic file (type png)
 <use Imagenes/autocad_ray03.png>
 Package pdftex.def Info: Imagenes/autocad_ray03.png  used on input line 433.
@@ -957,7 +957,7 @@ Package pdftex.def Info: Imagenes/autocad_ray03.png  used on input line 433.
 
 
 [41 <./Imagenes/autocad_ray02.png>]
-<Imagenes/autocad_ray04.png, id=509, 521.69907pt x 277.035pt>
+<Imagenes/autocad_ray04.png, id=513, 521.69907pt x 277.035pt>
 File: Imagenes/autocad_ray04.png Graphic file (type png)
 <use Imagenes/autocad_ray04.png>
 Package pdftex.def Info: Imagenes/autocad_ray04.png  used on input line 440.
@@ -966,13 +966,13 @@ Package pdftex.def Info: Imagenes/autocad_ray04.png  used on input line 440.
 
 [42 <./Imagenes/autocad_ray03.png> <./Imagenes/autocad_ray04.png>]
 Cap\'{\i }tulo 14.
-<Imagenes/autocad_dimspace_01.png, id=519, 942.52126pt x 311.66437pt>
+<Imagenes/autocad_dimspace_01.png, id=523, 942.52126pt x 311.66437pt>
 File: Imagenes/autocad_dimspace_01.png Graphic file (type png)
 <use Imagenes/autocad_dimspace_01.png>
 Package pdftex.def Info: Imagenes/autocad_dimspace_01.png  used on input line 4
 52.
 (pdftex.def)             Requested size: 331.49814pt x 109.61679pt.
-<Imagenes/autocad_dimspace_02.png, id=520, 934.24031pt x 365.86688pt>
+<Imagenes/autocad_dimspace_02.png, id=524, 934.24031pt x 365.86688pt>
 File: Imagenes/autocad_dimspace_02.png Graphic file (type png)
 <use Imagenes/autocad_dimspace_02.png>
 Package pdftex.def Info: Imagenes/autocad_dimspace_02.png  used on input line 4
@@ -983,7 +983,7 @@ Package pdftex.def Info: Imagenes/autocad_dimspace_02.png  used on input line 4
 [43
 
  <./Imagenes/autocad_dimspace_01.png>]
-<Imagenes/autocad_dimspace_03.png, id=527, 955.31906pt x 224.33812pt>
+<Imagenes/autocad_dimspace_03.png, id=531, 955.31906pt x 224.33812pt>
 File: Imagenes/autocad_dimspace_03.png Graphic file (type png)
 <use Imagenes/autocad_dimspace_03.png>
 Package pdftex.def Info: Imagenes/autocad_dimspace_03.png  used on input line 4
@@ -993,13 +993,13 @@ Package pdftex.def Info: Imagenes/autocad_dimspace_03.png  used on input line 4
 
 [44 <./Imagenes/autocad_dimspace_02.png> <./Imagenes/autocad_dimspace_03.png>]
 Cap\'{\i }tulo 15.
-<Imagenes/autocad_stretch01.png, id=536, 155.07938pt x 143.78719pt>
+<Imagenes/autocad_stretch01.png, id=540, 155.07938pt x 143.78719pt>
 File: Imagenes/autocad_stretch01.png Graphic file (type png)
 <use Imagenes/autocad_stretch01.png>
 Package pdftex.def Info: Imagenes/autocad_stretch01.png  used on input line 481
 .
 (pdftex.def)             Requested size: 295.79913pt x 274.26039pt.
-<Imagenes/autocad_stretch02.png, id=537, 564.60938pt x 374.14781pt>
+<Imagenes/autocad_stretch02.png, id=541, 564.60938pt x 374.14781pt>
 File: Imagenes/autocad_stretch02.png Graphic file (type png)
 <use Imagenes/autocad_stretch02.png>
 Package pdftex.def Info: Imagenes/autocad_stretch02.png  used on input line 488
@@ -1010,7 +1010,7 @@ Package pdftex.def Info: Imagenes/autocad_stretch02.png  used on input line 488
 [45
 
  <./Imagenes/autocad_stretch01.png>]
-<Imagenes/autocad_stretch03.png, id=544, 559.33969pt x 471.26062pt>
+<Imagenes/autocad_stretch03.png, id=548, 559.33969pt x 471.26062pt>
 File: Imagenes/autocad_stretch03.png Graphic file (type png)
 <use Imagenes/autocad_stretch03.png>
 Package pdftex.def Info: Imagenes/autocad_stretch03.png  used on input line 495
@@ -1022,7 +1022,7 @@ Package pdftex.def Info: Imagenes/autocad_stretch03.png  used on input line 495
 
 [47 <./Imagenes/autocad_stretch03.png>]
 Cap\'{\i }tulo 16.
-<Imagenes/autocad_wipeout_01.png, id=557, 471.26062pt x 436.63126pt>
+<Imagenes/autocad_wipeout_01.png, id=561, 471.26062pt x 436.63126pt>
 File: Imagenes/autocad_wipeout_01.png Graphic file (type png)
 <use Imagenes/autocad_wipeout_01.png>
 Package pdftex.def Info: Imagenes/autocad_wipeout_01.png  used on input line 50
@@ -1034,13 +1034,13 @@ Package pdftex.def Info: Imagenes/autocad_wipeout_01.png  used on input line 50
 
  <./Imagenes/autocad_wipeout_01.png>]
 Cap\'{\i }tulo 17.
-<Imagenes/autocad_alias_01.png, id=565, 150.5625pt x 93.34875pt>
+<Imagenes/autocad_alias_01.png, id=569, 150.5625pt x 93.34875pt>
 File: Imagenes/autocad_alias_01.png Graphic file (type png)
 <use Imagenes/autocad_alias_01.png>
 Package pdftex.def Info: Imagenes/autocad_alias_01.png  used on input line 520.
 
 (pdftex.def)             Requested size: 253.52219pt x 157.18375pt.
-<Imagenes/autocad_alias_02.png, id=566, 298.11375pt x 270.25969pt>
+<Imagenes/autocad_alias_02.png, id=570, 298.11375pt x 270.25969pt>
 File: Imagenes/autocad_alias_02.png Graphic file (type png)
 <use Imagenes/autocad_alias_02.png>
 Package pdftex.def Info: Imagenes/autocad_alias_02.png  used on input line 527.
@@ -1051,7 +1051,7 @@ Package pdftex.def Info: Imagenes/autocad_alias_02.png  used on input line 527.
 [49
 
  <./Imagenes/autocad_alias_01.png>]
-<Imagenes/autocad_alias_publish_01.png, id=573, 230.36063pt x 185.94469pt>
+<Imagenes/autocad_alias_publish_01.png, id=577, 230.36063pt x 185.94469pt>
 File: Imagenes/autocad_alias_publish_01.png Graphic file (type png)
 <use Imagenes/autocad_alias_publish_01.png>
 Package pdftex.def Info: Imagenes/autocad_alias_publish_01.png  used on input l
@@ -1060,19 +1060,19 @@ ine 537.
 
 
 [50 <./Imagenes/autocad_alias_02.png>]
-<Imagenes/autocad_alias_publish_02.png, id=580, 145.29282pt x 92.59593pt>
+<Imagenes/autocad_alias_publish_02.png, id=584, 145.29282pt x 92.59593pt>
 File: Imagenes/autocad_alias_publish_02.png Graphic file (type png)
 <use Imagenes/autocad_alias_publish_02.png>
 Package pdftex.def Info: Imagenes/autocad_alias_publish_02.png  used on input l
 ine 545.
 (pdftex.def)             Requested size: 167.69714pt x 106.8815pt.
-<Imagenes/autocad_alias_publish_03.png, id=581, 581.17125pt x 496.10344pt>
+<Imagenes/autocad_alias_publish_03.png, id=585, 581.17125pt x 496.10344pt>
 File: Imagenes/autocad_alias_publish_03.png Graphic file (type png)
 <use Imagenes/autocad_alias_publish_03.png>
 Package pdftex.def Info: Imagenes/autocad_alias_publish_03.png  used on input l
 ine 550.
 (pdftex.def)             Requested size: 175.49881pt x 149.80869pt.
-<Imagenes/autocad_alias_copy_01.png, id=582, 230.36063pt x 185.94469pt>
+<Imagenes/autocad_alias_copy_01.png, id=586, 230.36063pt x 185.94469pt>
 File: Imagenes/autocad_alias_copy_01.png Graphic file (type png)
 <use Imagenes/autocad_alias_copy_01.png>
 Package pdftex.def Info: Imagenes/autocad_alias_copy_01.png  used on input line
@@ -1082,13 +1082,13 @@ Package pdftex.def Info: Imagenes/autocad_alias_copy_01.png  used on input line
 
 [51 <./Imagenes/autocad_alias_publish_01.png> <./Imagenes/autocad_alias_publish
 _02.png> <./Imagenes/autocad_alias_publish_03.png>]
-<Imagenes/autocad_alias_circle_01.png, id=592, 230.36063pt x 185.94469pt>
+<Imagenes/autocad_alias_circle_01.png, id=596, 230.36063pt x 185.94469pt>
 File: Imagenes/autocad_alias_circle_01.png Graphic file (type png)
 <use Imagenes/autocad_alias_circle_01.png>
 Package pdftex.def Info: Imagenes/autocad_alias_circle_01.png  used on input li
 ne 575.
 (pdftex.def)             Requested size: 214.50029pt x 173.14238pt.
-<Imagenes/autocad_alias_mleader_01.png, id=593, 230.36063pt x 185.94469pt>
+<Imagenes/autocad_alias_mleader_01.png, id=597, 230.36063pt x 185.94469pt>
 File: Imagenes/autocad_alias_mleader_01.png Graphic file (type png)
 <use Imagenes/autocad_alias_mleader_01.png>
 Package pdftex.def Info: Imagenes/autocad_alias_mleader_01.png  used on input l
@@ -1098,13 +1098,13 @@ ine 586.
 
 [52 <./Imagenes/autocad_alias_copy_01.png> <./Imagenes/autocad_alias_circle_01.
 png>]
-<Imagenes/autocad_alias_quitmodelspace.png, id=602, 230.36063pt x 185.94469pt>
+<Imagenes/autocad_alias_quitmodelspace.png, id=606, 230.36063pt x 185.94469pt>
 File: Imagenes/autocad_alias_quitmodelspace.png Graphic file (type png)
 <use Imagenes/autocad_alias_quitmodelspace.png>
 Package pdftex.def Info: Imagenes/autocad_alias_quitmodelspace.png  used on inp
 ut line 597.
 (pdftex.def)             Requested size: 214.50029pt x 173.14238pt.
-<Imagenes/autocad_alias_ray.png, id=603, 230.36063pt x 185.94469pt>
+<Imagenes/autocad_alias_ray.png, id=607, 230.36063pt x 185.94469pt>
 File: Imagenes/autocad_alias_ray.png Graphic file (type png)
 <use Imagenes/autocad_alias_ray.png>
 Package pdftex.def Info: Imagenes/autocad_alias_ray.png  used on input line 608
@@ -1114,14 +1114,14 @@ Package pdftex.def Info: Imagenes/autocad_alias_ray.png  used on input line 608
 
 [53 <./Imagenes/autocad_alias_mleader_01.png> <./Imagenes/autocad_alias_quitmod
 elspace.png>]
-<Imagenes/autocad_alias_lineardimension.png, id=612, 230.36063pt x 185.94469pt>
+<Imagenes/autocad_alias_lineardimension.png, id=616, 230.36063pt x 185.94469pt>
 
 File: Imagenes/autocad_alias_lineardimension.png Graphic file (type png)
 <use Imagenes/autocad_alias_lineardimension.png>
 Package pdftex.def Info: Imagenes/autocad_alias_lineardimension.png  used on in
 put line 619.
 (pdftex.def)             Requested size: 214.50029pt x 173.14238pt.
-<Imagenes/autocad_alias_layeroptions_01.png, id=613, 230.36063pt x 185.94469pt>
+<Imagenes/autocad_alias_layeroptions_01.png, id=617, 230.36063pt x 185.94469pt>
 
 File: Imagenes/autocad_alias_layeroptions_01.png Graphic file (type png)
 <use Imagenes/autocad_alias_layeroptions_01.png>
@@ -1132,14 +1132,14 @@ put line 632.
 
 [54 <./Imagenes/autocad_alias_ray.png> <./Imagenes/autocad_alias_lineardimensio
 n.png>]
-<Imagenes/autocad_alias_layeroptions_02.png, id=623, 230.36063pt x 185.94469pt>
+<Imagenes/autocad_alias_layeroptions_02.png, id=627, 230.36063pt x 185.94469pt>
 
 File: Imagenes/autocad_alias_layeroptions_02.png Graphic file (type png)
 <use Imagenes/autocad_alias_layeroptions_02.png>
 Package pdftex.def Info: Imagenes/autocad_alias_layeroptions_02.png  used on in
 put line 641.
 (pdftex.def)             Requested size: 214.50029pt x 173.14238pt.
-<Imagenes/autocad_alias_layeroptions_03.png, id=624, 230.36063pt x 185.94469pt>
+<Imagenes/autocad_alias_layeroptions_03.png, id=628, 230.36063pt x 185.94469pt>
 
 File: Imagenes/autocad_alias_layeroptions_03.png Graphic file (type png)
 <use Imagenes/autocad_alias_layeroptions_03.png>
@@ -1150,7 +1150,7 @@ put line 649.
 
 [55 <./Imagenes/autocad_alias_layeroptions_01.png> <./Imagenes/autocad_alias_la
 yeroptions_02.png>]
-<Imagenes/autocad_alias_layeroptions_04.png, id=633, 230.36063pt x 185.94469pt>
+<Imagenes/autocad_alias_layeroptions_04.png, id=637, 230.36063pt x 185.94469pt>
 
 File: Imagenes/autocad_alias_layeroptions_04.png Graphic file (type png)
 <use Imagenes/autocad_alias_layeroptions_04.png>
@@ -1162,7 +1162,7 @@ put line 658.
 [56 <./Imagenes/autocad_alias_layeroptions_03.png> <./Imagenes/autocad_alias_la
 yeroptions_04.png>]
 Cap\'{\i }tulo 18.
-<Imagenes/autocad_rightclickmenu01.png, id=642, 238.64156pt x 380.17032pt>
+<Imagenes/autocad_rightclickmenu01.png, id=646, 238.64156pt x 380.17032pt>
 File: Imagenes/autocad_rightclickmenu01.png Graphic file (type png)
 <use Imagenes/autocad_rightclickmenu01.png>
 Package pdftex.def Info: Imagenes/autocad_rightclickmenu01.png  used on input l
@@ -1180,13 +1180,13 @@ Overfull \hbox (1.18884pt too wide) in paragraph at lines 684--685
 erver \ Ingenieria \ 13 Usuarios \
  []
 
-<Imagenes/autocad_measuregeom01.png, id=649, 540.51938pt x 88.07906pt>
+<Imagenes/autocad_measuregeom01.png, id=653, 540.51938pt x 88.07906pt>
 File: Imagenes/autocad_measuregeom01.png Graphic file (type png)
 <use Imagenes/autocad_measuregeom01.png>
 Package pdftex.def Info: Imagenes/autocad_measuregeom01.png  used on input line
  688.
 (pdftex.def)             Requested size: 370.50922pt x 60.37544pt.
-<Imagenes/autocad_measuregeom02.png, id=650, 389.20406pt x 402.75468pt>
+<Imagenes/autocad_measuregeom02.png, id=654, 389.20406pt x 402.75468pt>
 File: Imagenes/autocad_measuregeom02.png Graphic file (type png)
 <use Imagenes/autocad_measuregeom02.png>
 Package pdftex.def Info: Imagenes/autocad_measuregeom02.png  used on input line
@@ -1197,13 +1197,13 @@ Package pdftex.def Info: Imagenes/autocad_measuregeom02.png  used on input line
 [58
 
  <./Imagenes/autocad_measuregeom01.png>]
-<Imagenes/autocad_measuregeom03.png, id=658, 255.95625pt x 201.75375pt>
+<Imagenes/autocad_measuregeom03.png, id=662, 255.95625pt x 201.75375pt>
 File: Imagenes/autocad_measuregeom03.png Graphic file (type png)
 <use Imagenes/autocad_measuregeom03.png>
 Package pdftex.def Info: Imagenes/autocad_measuregeom03.png  used on input line
  702.
 (pdftex.def)             Requested size: 253.499pt x 199.81686pt.
-<Imagenes/autocad_measuregeom04.png, id=659, 327.47343pt x 179.92218pt>
+<Imagenes/autocad_measuregeom04.png, id=663, 327.47343pt x 179.92218pt>
 File: Imagenes/autocad_measuregeom04.png Graphic file (type png)
 <use Imagenes/autocad_measuregeom04.png>
 Package pdftex.def Info: Imagenes/autocad_measuregeom04.png  used on input line
@@ -1213,13 +1213,13 @@ Package pdftex.def Info: Imagenes/autocad_measuregeom04.png  used on input line
 
 [59 <./Imagenes/autocad_measuregeom02.png> <./Imagenes/autocad_measuregeom03.pn
 g>]
-<Imagenes/autocad_measuregeom05.png, id=668, 435.87843pt x 271.0125pt>
+<Imagenes/autocad_measuregeom05.png, id=672, 435.87843pt x 271.0125pt>
 File: Imagenes/autocad_measuregeom05.png Graphic file (type png)
 <use Imagenes/autocad_measuregeom05.png>
 Package pdftex.def Info: Imagenes/autocad_measuregeom05.png  used on input line
  716.
 (pdftex.def)             Requested size: 331.50383pt x 206.11636pt.
-<Imagenes/autocad_dimedithome_01.png, id=669, 700.86844pt x 234.1247pt>
+<Imagenes/autocad_dimedithome_01.png, id=673, 700.86844pt x 234.1247pt>
 File: Imagenes/autocad_dimedithome_01.png Graphic file (type png)
 <use Imagenes/autocad_dimedithome_01.png>
 Package pdftex.def Info: Imagenes/autocad_dimedithome_01.png  used on input lin
@@ -1229,19 +1229,19 @@ e 726.
 
 [60 <./Imagenes/autocad_measuregeom04.png> <./Imagenes/autocad_measuregeom05.pn
 g>]
-<Imagenes/autocad_dimedithome_02.png, id=679, 721.94719pt x 250.68657pt>
+<Imagenes/autocad_dimedithome_02.png, id=683, 721.94719pt x 250.68657pt>
 File: Imagenes/autocad_dimedithome_02.png Graphic file (type png)
 <use Imagenes/autocad_dimedithome_02.png>
 Package pdftex.def Info: Imagenes/autocad_dimedithome_02.png  used on input lin
 e 733.
 (pdftex.def)             Requested size: 253.48947pt x 88.02084pt.
-<Imagenes/autocad_dimedithome_03.png, id=680, 707.64375pt x 211.54031pt>
+<Imagenes/autocad_dimedithome_03.png, id=684, 707.64375pt x 211.54031pt>
 File: Imagenes/autocad_dimedithome_03.png Graphic file (type png)
 <use Imagenes/autocad_dimedithome_03.png>
 Package pdftex.def Info: Imagenes/autocad_dimedithome_03.png  used on input lin
 e 742.
 (pdftex.def)             Requested size: 253.48822pt x 75.77678pt.
-<Imagenes/autocad_mmapulgadas_01.png, id=681, 178.41656pt x 100.87688pt>
+<Imagenes/autocad_mmapulgadas_01.png, id=685, 178.41656pt x 100.87688pt>
 File: Imagenes/autocad_mmapulgadas_01.png Graphic file (type png)
 <use Imagenes/autocad_mmapulgadas_01.png>
 Package pdftex.def Info: Imagenes/autocad_mmapulgadas_01.png  used on input lin
@@ -1251,13 +1251,13 @@ e 753.
 
 [61 <./Imagenes/autocad_dimedithome_01.png> <./Imagenes/autocad_dimedithome_02.
 png> <./Imagenes/autocad_dimedithome_03.png>]
-<Imagenes/autocad_mmapulgadas_02.png, id=692, 239.39438pt x 100.87688pt>
+<Imagenes/autocad_mmapulgadas_02.png, id=696, 239.39438pt x 100.87688pt>
 File: Imagenes/autocad_mmapulgadas_02.png Graphic file (type png)
 <use Imagenes/autocad_mmapulgadas_02.png>
 Package pdftex.def Info: Imagenes/autocad_mmapulgadas_02.png  used on input lin
 e 760.
 (pdftex.def)             Requested size: 253.49747pt x 106.81967pt.
-<Imagenes/autocad_mmapulgadas_03.png, id=693, 151.3153pt x 71.51718pt>
+<Imagenes/autocad_mmapulgadas_03.png, id=697, 151.3153pt x 71.51718pt>
 File: Imagenes/autocad_mmapulgadas_03.png Graphic file (type png)
 <use Imagenes/autocad_mmapulgadas_03.png>
 Package pdftex.def Info: Imagenes/autocad_mmapulgadas_03.png  used on input lin
@@ -1267,845 +1267,865 @@ e 769.
 
 [62 <./Imagenes/autocad_mmapulgadas_01.png> <./Imagenes/autocad_mmapulgadas_02.
 png> <./Imagenes/autocad_mmapulgadas_03.png>]
+<Imagenes/autocad_cbp_01.png, id=708, 713.66624pt x 377.15906pt>
+File: Imagenes/autocad_cbp_01.png Graphic file (type png)
+<use Imagenes/autocad_cbp_01.png>
+Package pdftex.def Info: Imagenes/autocad_cbp_01.png  used on input line 788.
+(pdftex.def)             Requested size: 272.99881pt x 144.2715pt.
+<Imagenes/autocad_cbp_02.png, id=709, 749.04843pt x 368.1253pt>
+File: Imagenes/autocad_cbp_02.png Graphic file (type png)
+<use Imagenes/autocad_cbp_02.png>
+Package pdftex.def Info: Imagenes/autocad_cbp_02.png  used on input line 795.
+(pdftex.def)             Requested size: 272.99881pt x 134.1652pt.
+<Imagenes/autocad_cbp_03.png, id=710, 735.49782pt x 371.88937pt>
+File: Imagenes/autocad_cbp_03.png Graphic file (type png)
+<use Imagenes/autocad_cbp_03.png>
+Package pdftex.def Info: Imagenes/autocad_cbp_03.png  used on input line 802.
+(pdftex.def)             Requested size: 272.99881pt x 138.03952pt.
 
-[63
+
+[63 <./Imagenes/autocad_cbp_01.png> <./Imagenes/autocad_cbp_02.png>]
+
+[64 <./Imagenes/autocad_cbp_03.png>]
+
+[65
 
 ]
 Cap\'{\i }tulo 20.
-<Imagenes/solidworks_dark_mode01.png, id=708, 820.56563pt x 575.90157pt>
+<Imagenes/solidworks_dark_mode01.png, id=729, 820.56563pt x 575.90157pt>
 File: Imagenes/solidworks_dark_mode01.png Graphic file (type png)
 <use Imagenes/solidworks_dark_mode01.png>
 Package pdftex.def Info: Imagenes/solidworks_dark_mode01.png  used on input lin
-e 782.
+e 816.
 (pdftex.def)             Requested size: 370.49068pt x 260.02327pt.
-
-
-[64
-
- <./Imagenes/solidworks_dark_mode01.png>]
-<Imagenes/solidworks_dark_mode02.png, id=715, 1445.4pt x 782.925pt>
-File: Imagenes/solidworks_dark_mode02.png Graphic file (type png)
-<use Imagenes/solidworks_dark_mode02.png>
-Package pdftex.def Info: Imagenes/solidworks_dark_mode02.png  used on input lin
-e 795.
-(pdftex.def)             Requested size: 370.50194pt x 200.68855pt.
-
-
-[65 <./Imagenes/solidworks_dark_mode02.png>]
-Cap\'{\i }tulo 21.
-<Imagenes/solidworks_shortcutbars_01.png, id=722, 673.76718pt x 82.05656pt>
-File: Imagenes/solidworks_shortcutbars_01.png Graphic file (type png)
-<use Imagenes/solidworks_shortcutbars_01.png>
-Package pdftex.def Info: Imagenes/solidworks_shortcutbars_01.png  used on input
- line 807.
-(pdftex.def)             Requested size: 370.50113pt x 45.12247pt.
-<Imagenes/solidworks_shortcutbars_02.png, id=723, 485.56406pt x 497.60907pt>
-File: Imagenes/solidworks_shortcutbars_02.png Graphic file (type png)
-<use Imagenes/solidworks_shortcutbars_02.png>
-Package pdftex.def Info: Imagenes/solidworks_shortcutbars_02.png  used on input
- line 814.
-(pdftex.def)             Requested size: 267.61673pt x 274.2553pt.
 
 
 [66
 
+ <./Imagenes/solidworks_dark_mode01.png>]
+<Imagenes/solidworks_dark_mode02.png, id=737, 1445.4pt x 782.925pt>
+File: Imagenes/solidworks_dark_mode02.png Graphic file (type png)
+<use Imagenes/solidworks_dark_mode02.png>
+Package pdftex.def Info: Imagenes/solidworks_dark_mode02.png  used on input lin
+e 829.
+(pdftex.def)             Requested size: 370.50194pt x 200.68855pt.
+
+
+[67 <./Imagenes/solidworks_dark_mode02.png>]
+Cap\'{\i }tulo 21.
+<Imagenes/solidworks_shortcutbars_01.png, id=744, 673.76718pt x 82.05656pt>
+File: Imagenes/solidworks_shortcutbars_01.png Graphic file (type png)
+<use Imagenes/solidworks_shortcutbars_01.png>
+Package pdftex.def Info: Imagenes/solidworks_shortcutbars_01.png  used on input
+ line 841.
+(pdftex.def)             Requested size: 370.50113pt x 45.12247pt.
+<Imagenes/solidworks_shortcutbars_02.png, id=745, 485.56406pt x 497.60907pt>
+File: Imagenes/solidworks_shortcutbars_02.png Graphic file (type png)
+<use Imagenes/solidworks_shortcutbars_02.png>
+Package pdftex.def Info: Imagenes/solidworks_shortcutbars_02.png  used on input
+ line 848.
+(pdftex.def)             Requested size: 267.61673pt x 274.2553pt.
+
+
+[68
+
  <./Imagenes/solidworks_shortcutbars_01.png>]
 
-[67 <./Imagenes/solidworks_shortcutbars_02.png>]
-<Imagenes/solidworks_shortcutbars_03.png, id=737, 147.55125pt x 100.87688pt>
+[69 <./Imagenes/solidworks_shortcutbars_02.png>]
+<Imagenes/solidworks_shortcutbars_03.png, id=758, 147.55125pt x 100.87688pt>
 File: Imagenes/solidworks_shortcutbars_03.png Graphic file (type png)
 <use Imagenes/solidworks_shortcutbars_03.png>
 Package pdftex.def Info: Imagenes/solidworks_shortcutbars_03.png  used on input
- line 838.
+ line 872.
 (pdftex.def)             Requested size: 175.5026pt x 119.98647pt.
-<Imagenes/solidworks_shortcutbars_04.png, id=738, 124.96687pt x 124.96687pt>
+<Imagenes/solidworks_shortcutbars_04.png, id=759, 124.96687pt x 124.96687pt>
 File: Imagenes/solidworks_shortcutbars_04.png Graphic file (type png)
 <use Imagenes/solidworks_shortcutbars_04.png>
 Package pdftex.def Info: Imagenes/solidworks_shortcutbars_04.png  used on input
- line 859.
+ line 893.
 (pdftex.def)             Requested size: 136.51628pt x 136.51628pt.
 
 
-[68 <./Imagenes/solidworks_shortcutbars_03.png>]
-<Imagenes/solidworks_shortcutbars_05.png, id=745, 136.25906pt x 149.05687pt>
+[70 <./Imagenes/solidworks_shortcutbars_03.png>]
+<Imagenes/solidworks_shortcutbars_05.png, id=766, 136.25906pt x 149.05687pt>
 File: Imagenes/solidworks_shortcutbars_05.png Graphic file (type png)
 <use Imagenes/solidworks_shortcutbars_05.png>
 Package pdftex.def Info: Imagenes/solidworks_shortcutbars_05.png  used on input
- line 886.
+ line 920.
 (pdftex.def)             Requested size: 175.50876pt x 191.99303pt.
 
 
-[69 <./Imagenes/solidworks_shortcutbars_04.png>]
+[71 <./Imagenes/solidworks_shortcutbars_04.png>]
 
-[70 <./Imagenes/solidworks_shortcutbars_05.png>]
-<Imagenes/solidworks_shortcutbars_06.png, id=758, 136.25906pt x 173.14688pt>
+[72 <./Imagenes/solidworks_shortcutbars_05.png>]
+<Imagenes/solidworks_shortcutbars_06.png, id=780, 136.25906pt x 173.14688pt>
 File: Imagenes/solidworks_shortcutbars_06.png Graphic file (type png)
 <use Imagenes/solidworks_shortcutbars_06.png>
 Package pdftex.def Info: Imagenes/solidworks_shortcutbars_06.png  used on input
- line 917.
+ line 951.
 (pdftex.def)             Requested size: 175.50876pt x 223.02222pt.
-<Imagenes/solidworks_shortcutbars_07.png, id=759, 584.93532pt x 562.35094pt>
+<Imagenes/solidworks_shortcutbars_07.png, id=781, 584.93532pt x 562.35094pt>
 File: Imagenes/solidworks_shortcutbars_07.png Graphic file (type png)
 <use Imagenes/solidworks_shortcutbars_07.png>
 Package pdftex.def Info: Imagenes/solidworks_shortcutbars_07.png  used on input
- line 933.
+ line 967.
 (pdftex.def)             Requested size: 285.26414pt x 274.25009pt.
 
 
-[71 <./Imagenes/solidworks_shortcutbars_06.png>]
+[73 <./Imagenes/solidworks_shortcutbars_06.png>]
 
-[72 <./Imagenes/solidworks_shortcutbars_07.png>]
+[74 <./Imagenes/solidworks_shortcutbars_07.png>]
 Cap\'{\i }tulo 22.
-<Imagenes/solidworks_keyboard_01.png, id=773, 485.56406pt x 497.60907pt>
+<Imagenes/solidworks_keyboard_01.png, id=794, 485.56406pt x 497.60907pt>
 File: Imagenes/solidworks_keyboard_01.png Graphic file (type png)
 <use Imagenes/solidworks_keyboard_01.png>
 Package pdftex.def Info: Imagenes/solidworks_keyboard_01.png  used on input lin
-e 946.
+e 980.
 (pdftex.def)             Requested size: 331.498pt x 339.72122pt.
 
 
-[73
+[75
 
 ]
-<Imagenes/solidworks_keyboard_02.png, id=778, 485.56406pt x 497.60907pt>
+<Imagenes/solidworks_keyboard_02.png, id=799, 485.56406pt x 497.60907pt>
 File: Imagenes/solidworks_keyboard_02.png Graphic file (type png)
 <use Imagenes/solidworks_keyboard_02.png>
 Package pdftex.def Info: Imagenes/solidworks_keyboard_02.png  used on input lin
-e 955.
+e 989.
 (pdftex.def)             Requested size: 331.498pt x 339.72122pt.
 
 
-[74 <./Imagenes/solidworks_keyboard_01.png>]
-<Imagenes/solidworks_keyboard_03.png, id=785, 485.56406pt x 497.60907pt>
+[76 <./Imagenes/solidworks_keyboard_01.png>]
+<Imagenes/solidworks_keyboard_03.png, id=806, 485.56406pt x 497.60907pt>
 File: Imagenes/solidworks_keyboard_03.png Graphic file (type png)
 <use Imagenes/solidworks_keyboard_03.png>
 Package pdftex.def Info: Imagenes/solidworks_keyboard_03.png  used on input lin
-e 964.
+e 998.
 (pdftex.def)             Requested size: 331.498pt x 339.72122pt.
 
 
-[75 <./Imagenes/solidworks_keyboard_02.png>]
-<Imagenes/solidworks_keyboard_04.png, id=792, 485.56406pt x 497.60907pt>
+[77 <./Imagenes/solidworks_keyboard_02.png>]
+<Imagenes/solidworks_keyboard_04.png, id=813, 485.56406pt x 497.60907pt>
 File: Imagenes/solidworks_keyboard_04.png Graphic file (type png)
 <use Imagenes/solidworks_keyboard_04.png>
 Package pdftex.def Info: Imagenes/solidworks_keyboard_04.png  used on input lin
-e 973.
+e 1007.
 (pdftex.def)             Requested size: 331.498pt x 339.72122pt.
 
 
-[76 <./Imagenes/solidworks_keyboard_03.png>]
+[78 <./Imagenes/solidworks_keyboard_03.png>]
 
-[77 <./Imagenes/solidworks_keyboard_04.png>]
+[79 <./Imagenes/solidworks_keyboard_04.png>]
 Cap\'{\i }tulo 23.
-<Imagenes/solidworks_contextmenu_01.png, id=805, 570.63188pt x 202.50656pt>
+<Imagenes/solidworks_contextmenu_01.png, id=827, 570.63188pt x 202.50656pt>
 File: Imagenes/solidworks_contextmenu_01.png Graphic file (type png)
 <use Imagenes/solidworks_contextmenu_01.png>
 Package pdftex.def Info: Imagenes/solidworks_contextmenu_01.png  used on input 
-line 986.
+line 1020.
 (pdftex.def)             Requested size: 331.49786pt x 117.64236pt.
 
 
-[78
+[80
 
  <./Imagenes/solidworks_contextmenu_01.png>]
-<Imagenes/solidworks_contextmenu_02.png, id=812, 164.11313pt x 102.3825pt>
+<Imagenes/solidworks_contextmenu_02.png, id=833, 164.11313pt x 102.3825pt>
 File: Imagenes/solidworks_contextmenu_02.png Graphic file (type png)
 <use Imagenes/solidworks_contextmenu_02.png>
 Package pdftex.def Info: Imagenes/solidworks_contextmenu_02.png  used on input 
-line 1005.
+line 1039.
 (pdftex.def)             Requested size: 214.50395pt x 133.81897pt.
-<Imagenes/solidworks_contextmenu_03.png, id=813, 219.82124pt x 366.61969pt>
+<Imagenes/solidworks_contextmenu_03.png, id=834, 219.82124pt x 366.61969pt>
 File: Imagenes/solidworks_contextmenu_03.png Graphic file (type png)
 <use Imagenes/solidworks_contextmenu_03.png>
 Package pdftex.def Info: Imagenes/solidworks_contextmenu_03.png  used on input 
-line 1014.
+line 1048.
 (pdftex.def)             Requested size: 164.44624pt x 274.26482pt.
 
 
-[79 <./Imagenes/solidworks_contextmenu_02.png>]
-<Imagenes/solidworks_contextmenu_04.png, id=820, 234.8775pt x 73.77562pt>
+[81 <./Imagenes/solidworks_contextmenu_02.png>]
+<Imagenes/solidworks_contextmenu_04.png, id=841, 234.8775pt x 73.77562pt>
 File: Imagenes/solidworks_contextmenu_04.png Graphic file (type png)
 <use Imagenes/solidworks_contextmenu_04.png>
 Package pdftex.def Info: Imagenes/solidworks_contextmenu_04.png  used on input 
-line 1030.
+line 1064.
 (pdftex.def)             Requested size: 292.49947pt x 91.8748pt.
 
 
-[80 <./Imagenes/solidworks_contextmenu_03.png>]
+[82 <./Imagenes/solidworks_contextmenu_03.png>]
 
-[81 <./Imagenes/solidworks_contextmenu_04.png>]
+[83 <./Imagenes/solidworks_contextmenu_04.png>]
 Cap\'{\i }tulo 24.
-<Imagenes/solidworks_contextrightclick01.png, id=832, 715.17188pt x 573.64313pt
+<Imagenes/solidworks_contextrightclick01.png, id=853, 715.17188pt x 573.64313pt
 >
 File: Imagenes/solidworks_contextrightclick01.png Graphic file (type png)
 <use Imagenes/solidworks_contextrightclick01.png>
 Package pdftex.def Info: Imagenes/solidworks_contextrightclick01.png  used on i
-nput line 1041.
+nput line 1075.
 (pdftex.def)             Requested size: 331.50386pt x 265.901pt.
-
-
-[82
-
- <./Imagenes/solidworks_contextrightclick01.png>]
-Cap\'{\i }tulo 25.
-<Imagenes/solidworks_mousegestures_01.png, id=839, 887.56593pt x 503.63156pt>
-File: Imagenes/solidworks_mousegestures_01.png Graphic file (type png)
-<use Imagenes/solidworks_mousegestures_01.png>
-Package pdftex.def Info: Imagenes/solidworks_mousegestures_01.png  used on inpu
-t line 1053.
-(pdftex.def)             Requested size: 370.48636pt x 210.22508pt.
-
-
-[83
-
- <./Imagenes/solidworks_mousegestures_01.png>]
-Cap\'{\i }tulo 26.
-<Imagenes/solidworks_breadcrumbs_01.png, id=846, 600.74437pt x 626.34pt>
-File: Imagenes/solidworks_breadcrumbs_01.png Graphic file (type png)
-<use Imagenes/solidworks_breadcrumbs_01.png>
-Package pdftex.def Info: Imagenes/solidworks_breadcrumbs_01.png  used on input 
-line 1067.
-(pdftex.def)             Requested size: 292.5065pt x 304.96918pt.
 
 
 [84
 
+ <./Imagenes/solidworks_contextrightclick01.png>]
+Cap\'{\i }tulo 25.
+<Imagenes/solidworks_mousegestures_01.png, id=861, 887.56593pt x 503.63156pt>
+File: Imagenes/solidworks_mousegestures_01.png Graphic file (type png)
+<use Imagenes/solidworks_mousegestures_01.png>
+Package pdftex.def Info: Imagenes/solidworks_mousegestures_01.png  used on inpu
+t line 1087.
+(pdftex.def)             Requested size: 370.48636pt x 210.22508pt.
+
+
+[85
+
+ <./Imagenes/solidworks_mousegestures_01.png>]
+Cap\'{\i }tulo 26.
+<Imagenes/solidworks_breadcrumbs_01.png, id=868, 600.74437pt x 626.34pt>
+File: Imagenes/solidworks_breadcrumbs_01.png Graphic file (type png)
+<use Imagenes/solidworks_breadcrumbs_01.png>
+Package pdftex.def Info: Imagenes/solidworks_breadcrumbs_01.png  used on input 
+line 1101.
+(pdftex.def)             Requested size: 292.5065pt x 304.96918pt.
+
+
+[86
+
 ]
-<Imagenes/solidworks_breadcrumbs_02.png, id=852, 505.89pt x 626.34pt>
+<Imagenes/solidworks_breadcrumbs_02.png, id=873, 505.89pt x 626.34pt>
 File: Imagenes/solidworks_breadcrumbs_02.png Graphic file (type png)
 <use Imagenes/solidworks_breadcrumbs_02.png>
 Package pdftex.def Info: Imagenes/solidworks_breadcrumbs_02.png  used on input 
-line 1074.
+line 1108.
 (pdftex.def)             Requested size: 199.35733pt x 246.82336pt.
 
 
-[85 <./Imagenes/solidworks_breadcrumbs_01.png>]
+[87 <./Imagenes/solidworks_breadcrumbs_01.png>]
 
-[86 <./Imagenes/solidworks_breadcrumbs_02.png>]
+[88 <./Imagenes/solidworks_breadcrumbs_02.png>]
 Cap\'{\i }tulo 27.
-<Imagenes/solidworks_quickmates_01.png, id=863, 319.1925pt x 250.68657pt>
+<Imagenes/solidworks_quickmates_01.png, id=884, 319.1925pt x 250.68657pt>
 File: Imagenes/solidworks_quickmates_01.png Graphic file (type png)
 <use Imagenes/solidworks_quickmates_01.png>
 Package pdftex.def Info: Imagenes/solidworks_quickmates_01.png  used on input l
-ine 1086.
+ine 1120.
 (pdftex.def)             Requested size: 331.50427pt x 260.35596pt.
 
 
-[87
+[89
 
  <./Imagenes/solidworks_quickmates_01.png>]
 Cap\'{\i }tulo 28.
-<Imagenes/solidworks_quickhide_01.png, id=870, 583.42969pt x 524.71031pt>
+<Imagenes/solidworks_quickhide_01.png, id=891, 583.42969pt x 524.71031pt>
 File: Imagenes/solidworks_quickhide_01.png Graphic file (type png)
 <use Imagenes/solidworks_quickhide_01.png>
 Package pdftex.def Info: Imagenes/solidworks_quickhide_01.png  used on input li
-ne 1100.
+ne 1134.
 (pdftex.def)             Requested size: 175.49881pt x 157.83063pt.
-<Imagenes/solidworks_quickhide_02.png, id=871, 593.96906pt x 532.99126pt>
+<Imagenes/solidworks_quickhide_02.png, id=892, 593.96906pt x 532.99126pt>
 File: Imagenes/solidworks_quickhide_02.png Graphic file (type png)
 <use Imagenes/solidworks_quickhide_02.png>
 Package pdftex.def Info: Imagenes/solidworks_quickhide_02.png  used on input li
-ne 1105.
+ne 1139.
 (pdftex.def)             Requested size: 175.49881pt x 157.48317pt.
-<Imagenes/solidworks_quickhide_03.png, id=872, 298.11375pt x 663.98062pt>
+<Imagenes/solidworks_quickhide_03.png, id=893, 298.11375pt x 663.98062pt>
 File: Imagenes/solidworks_quickhide_03.png Graphic file (type png)
 <use Imagenes/solidworks_quickhide_03.png>
 Package pdftex.def Info: Imagenes/solidworks_quickhide_03.png  used on input li
-ne 1114.
+ne 1148.
 (pdftex.def)             Requested size: 184.70125pt x 411.38004pt.
 
 
-[88
+[90
 
  <./Imagenes/solidworks_quickhide_01.png> <./Imagenes/solidworks_quickhide_02.p
 ng>]
 
-[89 <./Imagenes/solidworks_quickhide_03.png>]
+[91 <./Imagenes/solidworks_quickhide_03.png>]
 Cap\'{\i }tulo 29.
-<Imagenes/solidworks_treedisplay01.png, id=886, 431.36156pt x 641.39626pt>
+<Imagenes/solidworks_treedisplay01.png, id=908, 431.36156pt x 641.39626pt>
 File: Imagenes/solidworks_treedisplay01.png Graphic file (type png)
 <use Imagenes/solidworks_treedisplay01.png>
 Package pdftex.def Info: Imagenes/solidworks_treedisplay01.png  used on input l
-ine 1126.
+ine 1160.
 (pdftex.def)             Requested size: 184.4419pt x 274.24867pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1127--1127
+Underfull \hbox (badness 10000) in paragraph at lines 1161--1161
 []\OT1/cmr/m/n/12 Figura 29.1: |Click-derecho en el en-sam-ble su-pe-rior\TS1/c
 mr/m/n/12 ^^Y\OT1/cmr/m/n/12 Tree Dis-
  []
 
 
 
-[90
+[92
 
 ]
-<Imagenes/solidworks_treedisplay02.png, id=892, 418.56375pt x 264.99pt>
+<Imagenes/solidworks_treedisplay02.png, id=913, 418.56375pt x 264.99pt>
 File: Imagenes/solidworks_treedisplay02.png Graphic file (type png)
 <use Imagenes/solidworks_treedisplay02.png>
 Package pdftex.def Info: Imagenes/solidworks_treedisplay02.png  used on input l
-ine 1133.
+ine 1167.
 (pdftex.def)             Requested size: 331.4984pt x 209.86949pt.
 
 
-[91 <./Imagenes/solidworks_treedisplay01.png>]
-<Imagenes/solidworks_treedisplay03.png, id=899, 1174.3875pt x 599.23875pt>
+[93 <./Imagenes/solidworks_treedisplay01.png>]
+<Imagenes/solidworks_treedisplay03.png, id=920, 1174.3875pt x 599.23875pt>
 File: Imagenes/solidworks_treedisplay03.png Graphic file (type png)
 <use Imagenes/solidworks_treedisplay03.png>
 Package pdftex.def Info: Imagenes/solidworks_treedisplay03.png  used on input l
-ine 1140.
+ine 1174.
 (pdftex.def)             Requested size: 331.49629pt x 169.1481pt.
 
 
-[92 <./Imagenes/solidworks_treedisplay02.png> <./Imagenes/solidworks_treedispla
+[94 <./Imagenes/solidworks_treedisplay02.png> <./Imagenes/solidworks_treedispla
 y03.png>]
 Cap\'{\i }tulo 30.
-<Imagenes/solidworks_componentpreview_01.png, id=908, 313.17pt x 171.64125pt>
+<Imagenes/solidworks_componentpreview_01.png, id=929, 313.17pt x 171.64125pt>
 File: Imagenes/solidworks_componentpreview_01.png Graphic file (type png)
 <use Imagenes/solidworks_componentpreview_01.png>
 Package pdftex.def Info: Imagenes/solidworks_componentpreview_01.png  used on i
-nput line 1155.
+nput line 1189.
 (pdftex.def)             Requested size: 331.51419pt x 181.69527pt.
-<Imagenes/solidworks_componentpreview_02.png, id=909, 136.25906pt x 129.48375pt
+<Imagenes/solidworks_componentpreview_02.png, id=930, 136.25906pt x 129.48375pt
 >
 File: Imagenes/solidworks_componentpreview_02.png Graphic file (type png)
 <use Imagenes/solidworks_componentpreview_02.png>
 Package pdftex.def Info: Imagenes/solidworks_componentpreview_02.png  used on i
-nput line 1162.
+nput line 1196.
 (pdftex.def)             Requested size: 175.50876pt x 166.7818pt.
 
 
-[93
+[95
 
  <./Imagenes/solidworks_componentpreview_01.png>]
-<Imagenes/solidworks_componentpreview_03.png, id=916, 436.905pt x 236.52pt>
+<Imagenes/solidworks_componentpreview_03.png, id=937, 436.905pt x 236.52pt>
 File: Imagenes/solidworks_componentpreview_03.png Graphic file (type png)
 <use Imagenes/solidworks_componentpreview_03.png>
 Package pdftex.def Info: Imagenes/solidworks_componentpreview_03.png  used on i
-nput line 1171.
+nput line 1205.
 (pdftex.def)             Requested size: 331.51791pt x 179.46834pt.
-<Imagenes/solidworks_componentpreview_04.png, id=917, 469.755pt x 234.8775pt>
+<Imagenes/solidworks_componentpreview_04.png, id=938, 469.755pt x 234.8775pt>
 File: Imagenes/solidworks_componentpreview_04.png Graphic file (type png)
 <use Imagenes/solidworks_componentpreview_04.png>
 Package pdftex.def Info: Imagenes/solidworks_componentpreview_04.png  used on i
-nput line 1178.
+nput line 1212.
 (pdftex.def)             Requested size: 331.49988pt x 165.74992pt.
 
 
-[94 <./Imagenes/solidworks_componentpreview_02.png> <./Imagenes/solidworks_comp
+[96 <./Imagenes/solidworks_componentpreview_02.png> <./Imagenes/solidworks_comp
 onentpreview_03.png>]
-<Imagenes/solidworks_componentpreview_05.png, id=926, 469.755pt x 231.86626pt>
+<Imagenes/solidworks_componentpreview_05.png, id=948, 469.755pt x 231.86626pt>
 File: Imagenes/solidworks_componentpreview_05.png Graphic file (type png)
 <use Imagenes/solidworks_componentpreview_05.png>
 Package pdftex.def Info: Imagenes/solidworks_componentpreview_05.png  used on i
-nput line 1185.
+nput line 1219.
 (pdftex.def)             Requested size: 331.49988pt x 163.62492pt.
-<Imagenes/solidworks_componentpreview_06.png, id=927, 469.755pt x 231.86626pt>
+<Imagenes/solidworks_componentpreview_06.png, id=949, 469.755pt x 231.86626pt>
 File: Imagenes/solidworks_componentpreview_06.png Graphic file (type png)
 <use Imagenes/solidworks_componentpreview_06.png>
 Package pdftex.def Info: Imagenes/solidworks_componentpreview_06.png  used on i
-nput line 1192.
+nput line 1226.
 (pdftex.def)             Requested size: 331.49988pt x 163.62492pt.
 
 
-[95 <./Imagenes/solidworks_componentpreview_04.png> <./Imagenes/solidworks_comp
+[97 <./Imagenes/solidworks_componentpreview_04.png> <./Imagenes/solidworks_comp
 onentpreview_05.png>]
-<Imagenes/solidworks_componentpreview_07.png, id=936, 469.755pt x 240.14719pt>
+<Imagenes/solidworks_componentpreview_07.png, id=958, 469.755pt x 240.14719pt>
 File: Imagenes/solidworks_componentpreview_07.png Graphic file (type png)
 <use Imagenes/solidworks_componentpreview_07.png>
 Package pdftex.def Info: Imagenes/solidworks_componentpreview_07.png  used on i
-nput line 1199.
+nput line 1233.
 (pdftex.def)             Requested size: 331.49988pt x 169.46866pt.
 
 
-[96 <./Imagenes/solidworks_componentpreview_06.png> <./Imagenes/solidworks_comp
+[98 <./Imagenes/solidworks_componentpreview_06.png> <./Imagenes/solidworks_comp
 onentpreview_07.png>]
 Cap\'{\i }tulo 31.
-<Imagenes/solidworks_copiarconctrl01.png, id=946, 916.1728pt x 632.3625pt>
+<Imagenes/solidworks_copiarconctrl01.png, id=967, 916.1728pt x 632.3625pt>
 File: Imagenes/solidworks_copiarconctrl01.png Graphic file (type png)
 <use Imagenes/solidworks_copiarconctrl01.png>
 Package pdftex.def Info: Imagenes/solidworks_copiarconctrl01.png  used on input
- line 1211.
+ line 1245.
 (pdftex.def)             Requested size: 331.49951pt x 228.80821pt.
 
 
-[97
+[99
 
  <./Imagenes/solidworks_copiarconctrl01.png>]
 Cap\'{\i }tulo 32.
-<Imagenes/solidworks_assemblyvisualization01.png, id=953, 225.09094pt x 140.023
+<Imagenes/solidworks_assemblyvisualization01.png, id=974, 225.09094pt x 140.023
 13pt>
 File: Imagenes/solidworks_assemblyvisualization01.png Graphic file (type png)
 <use Imagenes/solidworks_assemblyvisualization01.png>
 Package pdftex.def Info: Imagenes/solidworks_assemblyvisualization01.png  used 
-on input line 1224.
+on input line 1258.
 (pdftex.def)             Requested size: 253.5083pt x 157.70082pt.
-<Imagenes/solidworks_assemblyvisualization02.png, id=954, 651.93562pt x 588.699
+<Imagenes/solidworks_assemblyvisualization02.png, id=975, 651.93562pt x 588.699
 37pt>
 File: Imagenes/solidworks_assemblyvisualization02.png Graphic file (type png)
 <use Imagenes/solidworks_assemblyvisualization02.png>
 Package pdftex.def Info: Imagenes/solidworks_assemblyvisualization02.png  used 
-on input line 1231.
+on input line 1265.
 (pdftex.def)             Requested size: 303.71394pt x 274.2544pt.
 
 
-[98
+[100
 
  <./Imagenes/solidworks_assemblyvisualization01.png>]
-<Imagenes/solidworks_assemblyvisualization03.png, id=961, 649.67719pt x 587.193
+<Imagenes/solidworks_assemblyvisualization03.png, id=982, 649.67719pt x 587.193
 76pt>
 File: Imagenes/solidworks_assemblyvisualization03.png Graphic file (type png)
 <use Imagenes/solidworks_assemblyvisualization03.png>
 Package pdftex.def Info: Imagenes/solidworks_assemblyvisualization03.png  used 
-on input line 1238.
+on input line 1272.
 (pdftex.def)             Requested size: 303.43506pt x 274.25185pt.
 
 
-[99 <./Imagenes/solidworks_assemblyvisualization02.png>]
+[101 <./Imagenes/solidworks_assemblyvisualization02.png>]
 
-[100 <./Imagenes/solidworks_assemblyvisualization03.png>]
+[102 <./Imagenes/solidworks_assemblyvisualization03.png>]
 Cap\'{\i }tulo 33.
-<Imagenes/solidworks_macro_01.png, id=974, 350.05782pt x 75.28125pt>
+<Imagenes/solidworks_macro_01.png, id=996, 350.05782pt x 75.28125pt>
 File: Imagenes/solidworks_macro_01.png Graphic file (type png)
 <use Imagenes/solidworks_macro_01.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_01.png  used on input line 1
-253.
+287.
 (pdftex.def)             Requested size: 331.52213pt x 71.29506pt.
-<Imagenes/solidworks_macro_02.png, id=975, 485.56406pt x 497.60907pt>
+<Imagenes/solidworks_macro_02.png, id=997, 485.56406pt x 497.60907pt>
 File: Imagenes/solidworks_macro_02.png Graphic file (type png)
 <use Imagenes/solidworks_macro_02.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_02.png  used on input line 1
-260.
+294.
 (pdftex.def)             Requested size: 267.61673pt x 274.2553pt.
 
 
-[101
+[103
 
  <./Imagenes/solidworks_macro_01.png>]
-<Imagenes/solidworks_macro_03.png, id=982, 234.1247pt x 52.69687pt>
+<Imagenes/solidworks_macro_03.png, id=1004, 234.1247pt x 52.69687pt>
 File: Imagenes/solidworks_macro_03.png Graphic file (type png)
 <use Imagenes/solidworks_macro_03.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_03.png  used on input line 1
-267.
+301.
 (pdftex.def)             Requested size: 253.5118pt x 57.06052pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 1276--1277
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 1310--1311
 [][] 
  []
 
-<Imagenes/solidworks_macro_04.png, id=983, 245.41687pt x 231.86626pt>
+<Imagenes/solidworks_macro_04.png, id=1005, 245.41687pt x 231.86626pt>
 File: Imagenes/solidworks_macro_04.png Graphic file (type png)
 <use Imagenes/solidworks_macro_04.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_04.png  used on input line 1
-284.
+318.
 (pdftex.def)             Requested size: 214.50705pt x 202.6631pt.
 
 
-[102 <./Imagenes/solidworks_macro_02.png> <./Imagenes/solidworks_macro_03.png>]
-<Imagenes/solidworks_macro_07.png, id=993, 420.06938pt x 76.78688pt>
+[104 <./Imagenes/solidworks_macro_02.png> <./Imagenes/solidworks_macro_03.png>]
+<Imagenes/solidworks_macro_07.png, id=1014, 420.06938pt x 76.78688pt>
 File: Imagenes/solidworks_macro_07.png Graphic file (type png)
 <use Imagenes/solidworks_macro_07.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_07.png  used on input line 1
-293.
+327.
 (pdftex.def)             Requested size: 331.50505pt x 60.59769pt.
 
-Overfull \hbox (1.03615pt too wide) in paragraph at lines 1303--1304
+Overfull \hbox (1.03615pt too wide) in paragraph at lines 1337--1338
 \OT1/cmr/m/n/12 en $\OT1/cmtt/m/n/12 \ \ intradeserver \ Ingenieria \ 13 Usuari
 os \ Alberto _ M \ scroll _ item _
  []
 
-<Imagenes/solidworks_macro_08.png, id=994, 245.41687pt x 231.86626pt>
+<Imagenes/solidworks_macro_08.png, id=1015, 245.41687pt x 231.86626pt>
 File: Imagenes/solidworks_macro_08.png Graphic file (type png)
 <use Imagenes/solidworks_macro_08.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_08.png  used on input line 1
-307.
+341.
 (pdftex.def)             Requested size: 214.50705pt x 202.6631pt.
 
 
-[103 <./Imagenes/solidworks_macro_04.png> <./Imagenes/solidworks_macro_07.png>]
-<Imagenes/solidworks_macro_09.png, id=1003, 686.565pt x 520.19344pt>
+[105 <./Imagenes/solidworks_macro_04.png> <./Imagenes/solidworks_macro_07.png>]
+<Imagenes/solidworks_macro_09.png, id=1024, 686.565pt x 520.19344pt>
 File: Imagenes/solidworks_macro_09.png Graphic file (type png)
 <use Imagenes/solidworks_macro_09.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_09.png  used on input line 1
-317.
+351.
 (pdftex.def)             Requested size: 175.49881pt x 132.96902pt.
-<Imagenes/solidworks_macro_10.png, id=1004, 686.565pt x 520.94624pt>
+<Imagenes/solidworks_macro_10.png, id=1025, 686.565pt x 520.94624pt>
 File: Imagenes/solidworks_macro_10.png Graphic file (type png)
 <use Imagenes/solidworks_macro_10.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_10.png  used on input line 1
-322.
+356.
 (pdftex.def)             Requested size: 175.49881pt x 133.16147pt.
 
-Overfull \hbox (6.99776pt too wide) in paragraph at lines 1330--1330
+Overfull \hbox (6.99776pt too wide) in paragraph at lines 1364--1364
 []\OT1/cmr/bx/n/17.28 Horizontal and Alig-ned Di-men-sion Swap 
  []
 
 
 
-[104 <./Imagenes/solidworks_macro_08.png> <./Imagenes/solidworks_macro_09.png> 
+[106 <./Imagenes/solidworks_macro_08.png> <./Imagenes/solidworks_macro_09.png> 
 <./Imagenes/solidworks_macro_10.png>]
-<Imagenes/solidworks_macro_11.png, id=1014, 245.41687pt x 231.86626pt>
+<Imagenes/solidworks_macro_11.png, id=1035, 245.41687pt x 231.86626pt>
 File: Imagenes/solidworks_macro_11.png Graphic file (type png)
 <use Imagenes/solidworks_macro_11.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_11.png  used on input line 1
-340.
+374.
 (pdftex.def)             Requested size: 214.50705pt x 202.6631pt.
-<Imagenes/solidworks_macro_12.png, id=1015, 469.755pt x 213.79875pt>
+<Imagenes/solidworks_macro_12.png, id=1036, 469.755pt x 213.79875pt>
 File: Imagenes/solidworks_macro_12.png Graphic file (type png)
 <use Imagenes/solidworks_macro_12.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_12.png  used on input line 1
-350.
+384.
 (pdftex.def)             Requested size: 175.49881pt x 79.87419pt.
-<Imagenes/solidworks_macro_13.png, id=1016, 469.755pt x 211.54031pt>
+<Imagenes/solidworks_macro_13.png, id=1037, 469.755pt x 211.54031pt>
 File: Imagenes/solidworks_macro_13.png Graphic file (type png)
 <use Imagenes/solidworks_macro_13.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_13.png  used on input line 1
-355.
+389.
 (pdftex.def)             Requested size: 175.49881pt x 79.03044pt.
 
 
-[105 <./Imagenes/solidworks_macro_11.png> <./Imagenes/solidworks_macro_12.png> 
+[107 <./Imagenes/solidworks_macro_11.png> <./Imagenes/solidworks_macro_12.png> 
 <./Imagenes/solidworks_macro_13.png>]
-<Imagenes/solidworks_macro_14.png, id=1026, 245.41687pt x 231.86626pt>
+<Imagenes/solidworks_macro_14.png, id=1047, 245.41687pt x 231.86626pt>
 File: Imagenes/solidworks_macro_14.png Graphic file (type png)
 <use Imagenes/solidworks_macro_14.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_14.png  used on input line 1
-371.
+405.
 (pdftex.def)             Requested size: 290.30463pt x 274.27554pt.
 
 
-[106 <./Imagenes/solidworks_macro_14.png>]
-<Imagenes/solidworks_macro_15.png, id=1033, 444.15938pt x 511.15968pt>
+[108 <./Imagenes/solidworks_macro_14.png>]
+<Imagenes/solidworks_macro_15.png, id=1055, 444.15938pt x 511.15968pt>
 File: Imagenes/solidworks_macro_15.png Graphic file (type png)
 <use Imagenes/solidworks_macro_15.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_15.png  used on input line 1
-383.
+417.
 (pdftex.def)             Requested size: 175.49881pt x 201.97215pt.
-<Imagenes/solidworks_macro_16.png, id=1034, 443.40656pt x 512.66531pt>
+<Imagenes/solidworks_macro_16.png, id=1056, 443.40656pt x 512.66531pt>
 File: Imagenes/solidworks_macro_16.png Graphic file (type png)
 <use Imagenes/solidworks_macro_16.png>
 Package pdftex.def Info: Imagenes/solidworks_macro_16.png  used on input line 1
-388.
+422.
 (pdftex.def)             Requested size: 175.49881pt x 202.91125pt.
-<Imagenes/solidworks_isoviews_01.png, id=1035, 199.49532pt x 462.22687pt>
+<Imagenes/solidworks_isoviews_01.png, id=1057, 199.49532pt x 462.22687pt>
 File: Imagenes/solidworks_isoviews_01.png Graphic file (type png)
 <use Imagenes/solidworks_isoviews_01.png>
 Package pdftex.def Info: Imagenes/solidworks_isoviews_01.png  used on input lin
-e 1403.
+e 1437.
 (pdftex.def)             Requested size: 201.22383pt x 466.23184pt.
 
 
-[107 <./Imagenes/solidworks_macro_15.png> <./Imagenes/solidworks_macro_16.png>]
+[109 <./Imagenes/solidworks_macro_15.png> <./Imagenes/solidworks_macro_16.png>]
 
 
-[108 <./Imagenes/solidworks_isoviews_01.png>]
+[110 <./Imagenes/solidworks_isoviews_01.png>]
 Cap\'{\i }tulo 34.
-<Imagenes/solidworks_feetin01.png, id=1050, 179.92218pt x 310.15875pt>
+<Imagenes/solidworks_feetin01.png, id=1071, 179.92218pt x 310.15875pt>
 File: Imagenes/solidworks_feetin01.png Graphic file (type png)
 <use Imagenes/solidworks_feetin01.png>
 Package pdftex.def Info: Imagenes/solidworks_feetin01.png  used on input line 1
-415.
+449.
 (pdftex.def)             Requested size: 136.50238pt x 235.32555pt.
-<Imagenes/solidworks_feetin02.png, id=1051, 178.41656pt x 308.65312pt>
+<Imagenes/solidworks_feetin02.png, id=1072, 178.41656pt x 308.65312pt>
 File: Imagenes/solidworks_feetin02.png Graphic file (type png)
 <use Imagenes/solidworks_feetin02.png>
 Package pdftex.def Info: Imagenes/solidworks_feetin02.png  used on input line 1
-420.
+454.
 (pdftex.def)             Requested size: 136.50238pt x 236.15182pt.
 
 
-[109
+[111
 
  <./Imagenes/solidworks_feetin01.png> <./Imagenes/solidworks_feetin02.png>]
 Cap\'{\i }tulo 35.
-<Imagenes/solidworks_dual_units01.png, id=1059, 300.3722pt x 231.11343pt>
+<Imagenes/solidworks_dual_units01.png, id=1080, 300.3722pt x 231.11343pt>
 File: Imagenes/solidworks_dual_units01.png Graphic file (type png)
 <use Imagenes/solidworks_dual_units01.png>
 Package pdftex.def Info: Imagenes/solidworks_dual_units01.png  used on input li
-ne 1433.
+ne 1467.
 (pdftex.def)             Requested size: 214.50781pt x 165.04736pt.
-<Imagenes/solidworks_dual_units02.png, id=1060, 173.14688pt x 429.10312pt>
+<Imagenes/solidworks_dual_units02.png, id=1081, 173.14688pt x 429.10312pt>
 File: Imagenes/solidworks_dual_units02.png Graphic file (type png)
 <use Imagenes/solidworks_dual_units02.png>
 Package pdftex.def Info: Imagenes/solidworks_dual_units02.png  used on input li
-ne 1440.
+ne 1474.
 (pdftex.def)             Requested size: 110.66302pt x 274.25185pt.
 
 
-[110
+[112
 
  <./Imagenes/solidworks_dual_units01.png>]
-<Imagenes/solidworks_dual_units03.png, id=1067, 300.3722pt x 275.52937pt>
+<Imagenes/solidworks_dual_units03.png, id=1088, 300.3722pt x 275.52937pt>
 File: Imagenes/solidworks_dual_units03.png Graphic file (type png)
 <use Imagenes/solidworks_dual_units03.png>
 Package pdftex.def Info: Imagenes/solidworks_dual_units03.png  used on input li
-ne 1447.
+ne 1481.
 (pdftex.def)             Requested size: 209.2966pt x 191.98634pt.
 
 
-[111 <./Imagenes/solidworks_dual_units02.png>]
+[113 <./Imagenes/solidworks_dual_units02.png>]
 
-[112 <./Imagenes/solidworks_dual_units03.png>]
+[114 <./Imagenes/solidworks_dual_units03.png>]
 Cap\'{\i }tulo 36.
-<Imagenes/solidworks_ciclarcona01.png, id=1080, 179.92218pt x 311.66437pt>
+<Imagenes/solidworks_ciclarcona01.png, id=1102, 179.92218pt x 311.66437pt>
 File: Imagenes/solidworks_ciclarcona01.png Graphic file (type png)
 <use Imagenes/solidworks_ciclarcona01.png>
 Package pdftex.def Info: Imagenes/solidworks_ciclarcona01.png  used on input li
-ne 1460.
+ne 1494.
 (pdftex.def)             Requested size: 136.50238pt x 236.46791pt.
-<Imagenes/solidworks_ciclarcona02.png, id=1081, 178.41656pt x 307.90031pt>
+<Imagenes/solidworks_ciclarcona02.png, id=1103, 178.41656pt x 307.90031pt>
 File: Imagenes/solidworks_ciclarcona02.png Graphic file (type png)
 <use Imagenes/solidworks_ciclarcona02.png>
 Package pdftex.def Info: Imagenes/solidworks_ciclarcona02.png  used on input li
-ne 1465.
+ne 1499.
 (pdftex.def)             Requested size: 136.50238pt x 235.57585pt.
 
 
-[113
+[115
 
  <./Imagenes/solidworks_ciclarcona01.png> <./Imagenes/solidworks_ciclarcona02.p
 ng>]
 Cap\'{\i }tulo 37.
-<Imagenes/solidworks_curvaconlinea01.png, id=1089, 669.2503pt x 358.33875pt>
+<Imagenes/solidworks_curvaconlinea01.png, id=1111, 669.2503pt x 358.33875pt>
 File: Imagenes/solidworks_curvaconlinea01.png Graphic file (type png)
 <use Imagenes/solidworks_curvaconlinea01.png>
 Package pdftex.def Info: Imagenes/solidworks_curvaconlinea01.png  used on input
- line 1478.
+ line 1512.
 (pdftex.def)             Requested size: 331.50969pt x 177.50125pt.
-<Imagenes/solidworks_curvaconlinea02.png, id=1090, 671.50874pt x 357.58594pt>
+<Imagenes/solidworks_curvaconlinea02.png, id=1112, 671.50874pt x 357.58594pt>
 File: Imagenes/solidworks_curvaconlinea02.png Graphic file (type png)
 <use Imagenes/solidworks_curvaconlinea02.png>
 Package pdftex.def Info: Imagenes/solidworks_curvaconlinea02.png  used on input
- line 1485.
+ line 1519.
 (pdftex.def)             Requested size: 331.5013pt x 176.52815pt.
-<Imagenes/solidworks_curvaconlinea03.png, id=1091, 672.26157pt x 356.83313pt>
+<Imagenes/solidworks_curvaconlinea03.png, id=1113, 672.26157pt x 356.83313pt>
 File: Imagenes/solidworks_curvaconlinea03.png Graphic file (type png)
 <use Imagenes/solidworks_curvaconlinea03.png>
 Package pdftex.def Info: Imagenes/solidworks_curvaconlinea03.png  used on input
- line 1491.
+ line 1525.
 (pdftex.def)             Requested size: 331.50365pt x 175.9605pt.
-
-
-[114
-
- <./Imagenes/solidworks_curvaconlinea01.png>]
-
-[115 <./Imagenes/solidworks_curvaconlinea02.png> <./Imagenes/solidworks_curvaco
-nlinea03.png>]
-Cap\'{\i }tulo 38.
-<Imagenes/solidworks_multileader01.png, id=1107, 845.40843pt x 310.15875pt>
-File: Imagenes/solidworks_multileader01.png Graphic file (type png)
-<use Imagenes/solidworks_multileader01.png>
-Package pdftex.def Info: Imagenes/solidworks_multileader01.png  used on input l
-ine 1503.
-(pdftex.def)             Requested size: 331.50104pt x 121.61926pt.
 
 
 [116
 
- <./Imagenes/solidworks_multileader01.png>]
-<Imagenes/solidworks_multileader02.png, id=1114, 843.15pt x 309.40594pt>
-File: Imagenes/solidworks_multileader02.png Graphic file (type png)
-<use Imagenes/solidworks_multileader02.png>
-Package pdftex.def Info: Imagenes/solidworks_multileader02.png  used on input l
-ine 1515.
-(pdftex.def)             Requested size: 331.50317pt x 121.64983pt.
+ <./Imagenes/solidworks_curvaconlinea01.png>]
 
-
-[117 <./Imagenes/solidworks_multileader02.png>]
-Cap\'{\i }tulo 39.
-<Imagenes/solidworks_virtual_sharps01.png, id=1121, 797.22844pt x 358.33875pt>
-File: Imagenes/solidworks_virtual_sharps01.png Graphic file (type png)
-<use Imagenes/solidworks_virtual_sharps01.png>
-Package pdftex.def Info: Imagenes/solidworks_virtual_sharps01.png  used on inpu
-t line 1526.
-(pdftex.def)             Requested size: 370.5006pt x 166.53284pt.
-<Imagenes/solidworks_virtual_sharps02.png, id=1122, 783.67781pt x 243.15843pt>
-File: Imagenes/solidworks_virtual_sharps02.png Graphic file (type png)
-<use Imagenes/solidworks_virtual_sharps02.png>
-Package pdftex.def Info: Imagenes/solidworks_virtual_sharps02.png  used on inpu
-t line 1533.
-(pdftex.def)             Requested size: 370.50496pt x 114.95975pt.
+[117 <./Imagenes/solidworks_curvaconlinea02.png> <./Imagenes/solidworks_curvaco
+nlinea03.png>]
+Cap\'{\i }tulo 38.
+<Imagenes/solidworks_multileader01.png, id=1128, 845.40843pt x 310.15875pt>
+File: Imagenes/solidworks_multileader01.png Graphic file (type png)
+<use Imagenes/solidworks_multileader01.png>
+Package pdftex.def Info: Imagenes/solidworks_multileader01.png  used on input l
+ine 1537.
+(pdftex.def)             Requested size: 331.50104pt x 121.61926pt.
 
 
 [118
 
- <./Imagenes/solidworks_virtual_sharps01.png>]
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 1539--1540
-[][] 
- []
-
-<Imagenes/solidworks_virtual_sharps03.png, id=1129, 1145.78062pt x 396.7322pt>
-File: Imagenes/solidworks_virtual_sharps03.png Graphic file (type png)
-<use Imagenes/solidworks_virtual_sharps03.png>
-Package pdftex.def Info: Imagenes/solidworks_virtual_sharps03.png  used on inpu
-t line 1543.
-(pdftex.def)             Requested size: 370.50359pt x 128.28868pt.
+ <./Imagenes/solidworks_multileader01.png>]
+<Imagenes/solidworks_multileader02.png, id=1135, 843.15pt x 309.40594pt>
+File: Imagenes/solidworks_multileader02.png Graphic file (type png)
+<use Imagenes/solidworks_multileader02.png>
+Package pdftex.def Info: Imagenes/solidworks_multileader02.png  used on input l
+ine 1549.
+(pdftex.def)             Requested size: 331.50317pt x 121.64983pt.
 
 
-[119 <./Imagenes/solidworks_virtual_sharps02.png> <./Imagenes/solidworks_virtua
-l_sharps03.png>]
-Cap\'{\i }tulo 40.
-<Imagenes/solidworks_addtostack01.png, id=1139, 477.28313pt x 437.38406pt>
-File: Imagenes/solidworks_addtostack01.png Graphic file (type png)
-<use Imagenes/solidworks_addtostack01.png>
-Package pdftex.def Info: Imagenes/solidworks_addtostack01.png  used on input li
-ne 1556.
-(pdftex.def)             Requested size: 299.26982pt x 274.25198pt.
+[119 <./Imagenes/solidworks_multileader02.png>]
+Cap\'{\i }tulo 39.
+<Imagenes/solidworks_virtual_sharps01.png, id=1142, 797.22844pt x 358.33875pt>
+File: Imagenes/solidworks_virtual_sharps01.png Graphic file (type png)
+<use Imagenes/solidworks_virtual_sharps01.png>
+Package pdftex.def Info: Imagenes/solidworks_virtual_sharps01.png  used on inpu
+t line 1560.
+(pdftex.def)             Requested size: 370.5006pt x 166.53284pt.
+<Imagenes/solidworks_virtual_sharps02.png, id=1143, 783.67781pt x 243.15843pt>
+File: Imagenes/solidworks_virtual_sharps02.png Graphic file (type png)
+<use Imagenes/solidworks_virtual_sharps02.png>
+Package pdftex.def Info: Imagenes/solidworks_virtual_sharps02.png  used on inpu
+t line 1567.
+(pdftex.def)             Requested size: 370.50496pt x 114.95975pt.
 
 
 [120
 
+ <./Imagenes/solidworks_virtual_sharps01.png>]
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 1573--1574
+[][] 
+ []
+
+<Imagenes/solidworks_virtual_sharps03.png, id=1151, 1145.78062pt x 396.7322pt>
+File: Imagenes/solidworks_virtual_sharps03.png Graphic file (type png)
+<use Imagenes/solidworks_virtual_sharps03.png>
+Package pdftex.def Info: Imagenes/solidworks_virtual_sharps03.png  used on inpu
+t line 1577.
+(pdftex.def)             Requested size: 370.50359pt x 128.28868pt.
+
+
+[121 <./Imagenes/solidworks_virtual_sharps02.png> <./Imagenes/solidworks_virtua
+l_sharps03.png>]
+Cap\'{\i }tulo 40.
+<Imagenes/solidworks_addtostack01.png, id=1161, 477.28313pt x 437.38406pt>
+File: Imagenes/solidworks_addtostack01.png Graphic file (type png)
+<use Imagenes/solidworks_addtostack01.png>
+Package pdftex.def Info: Imagenes/solidworks_addtostack01.png  used on input li
+ne 1590.
+(pdftex.def)             Requested size: 299.26982pt x 274.25198pt.
+
+
+[122
+
 ]
-<Imagenes/solidworks_addtostack02.png, id=1145, 336.50719pt x 176.15813pt>
+<Imagenes/solidworks_addtostack02.png, id=1166, 336.50719pt x 176.15813pt>
 File: Imagenes/solidworks_addtostack02.png Graphic file (type png)
 <use Imagenes/solidworks_addtostack02.png>
 Package pdftex.def Info: Imagenes/solidworks_addtostack02.png  used on input li
-ne 1565.
+ne 1599.
 (pdftex.def)             Requested size: 331.50516pt x 173.53961pt.
-<Imagenes/solidworks_addtoordinate01.png, id=1146, 535.2497pt x 413.29407pt>
+<Imagenes/solidworks_addtoordinate01.png, id=1167, 535.2497pt x 413.29407pt>
 File: Imagenes/solidworks_addtoordinate01.png Graphic file (type png)
 <use Imagenes/solidworks_addtoordinate01.png>
 Package pdftex.def Info: Imagenes/solidworks_addtoordinate01.png  used on input
- line 1576.
+ line 1610.
 (pdftex.def)             Requested size: 331.51653pt x 255.9811pt.
 
 
-[121 <./Imagenes/solidworks_addtostack01.png> <./Imagenes/solidworks_addtostack
+[123 <./Imagenes/solidworks_addtostack01.png> <./Imagenes/solidworks_addtostack
 02.png>]
 
-[122 <./Imagenes/solidworks_addtoordinate01.png>]
-<Imagenes/solidworks_addtoordinate02.png, id=1161, 532.99126pt x 414.04688pt>
+[124 <./Imagenes/solidworks_addtoordinate01.png>]
+<Imagenes/solidworks_addtoordinate02.png, id=1182, 532.99126pt x 414.04688pt>
 File: Imagenes/solidworks_addtoordinate02.png Graphic file (type png)
 <use Imagenes/solidworks_addtoordinate02.png>
 Package pdftex.def Info: Imagenes/solidworks_addtoordinate02.png  used on input
- line 1587.
+ line 1621.
 (pdftex.def)             Requested size: 331.50842pt x 257.52773pt.
 
 
-[123 <./Imagenes/solidworks_addtoordinate02.png>]
+[125 <./Imagenes/solidworks_addtoordinate02.png>]
 Cap\'{\i }tulo 41.
-<Imagenes/solidworks_addin_01.png, id=1168, 417.05812pt x 727.96968pt>
+<Imagenes/solidworks_addin_01.png, id=1189, 417.05812pt x 727.96968pt>
 File: Imagenes/solidworks_addin_01.png Graphic file (type png)
 <use Imagenes/solidworks_addin_01.png>
 Package pdftex.def Info: Imagenes/solidworks_addin_01.png  used on input line 1
-600.
+634.
 (pdftex.def)             Requested size: 172.83406pt x 301.67969pt.
 
 
-[124
+[126
 
 ]
-<Imagenes/solidworks_addin_02.png, id=1173, 312.41719pt x 391.4625pt>
+<Imagenes/solidworks_addin_02.png, id=1195, 312.41719pt x 391.4625pt>
 File: Imagenes/solidworks_addin_02.png Graphic file (type png)
 <use Imagenes/solidworks_addin_02.png>
 Package pdftex.def Info: Imagenes/solidworks_addin_02.png  used on input line 1
-611.
+645.
 (pdftex.def)             Requested size: 218.88597pt x 274.26677pt.
 
 
-[125 <./Imagenes/solidworks_addin_01.png>]
+[127 <./Imagenes/solidworks_addin_01.png>]
 
-[126 <./Imagenes/solidworks_addin_02.png>]
+[128 <./Imagenes/solidworks_addin_02.png>]
 Cap\'{\i }tulo 42.
-<Imagenes/solidworks_sheetmetalgauge_01.png, id=1187, 286.06876pt x 95.6072pt>
+<Imagenes/solidworks_sheetmetalgauge_01.png, id=1208, 286.06876pt x 95.6072pt>
 File: Imagenes/solidworks_sheetmetalgauge_01.png Graphic file (type png)
 <use Imagenes/solidworks_sheetmetalgauge_01.png>
 Package pdftex.def Info: Imagenes/solidworks_sheetmetalgauge_01.png  used on in
-put line 1624.
+put line 1658.
 (pdftex.def)             Requested size: 331.50824pt x 110.79353pt.
-<Imagenes/solidworks_sheetmetalgauge_02.png, id=1188, 651.93562pt x 575.90157pt
+<Imagenes/solidworks_sheetmetalgauge_02.png, id=1209, 651.93562pt x 575.90157pt
 >
 File: Imagenes/solidworks_sheetmetalgauge_02.png Graphic file (type png)
 <use Imagenes/solidworks_sheetmetalgauge_02.png>
 Package pdftex.def Info: Imagenes/solidworks_sheetmetalgauge_02.png  used on in
-put line 1631.
+put line 1665.
 (pdftex.def)             Requested size: 310.46844pt x 274.2591pt.
 
 
-[127
+[129
 
  <./Imagenes/solidworks_sheetmetalgauge_01.png>]
-<Imagenes/solidworks_sheetmetalgauge_03.png, id=1195, 712.16063pt x 401.24907pt
+<Imagenes/solidworks_sheetmetalgauge_03.png, id=1216, 712.16063pt x 401.24907pt
 >
 File: Imagenes/solidworks_sheetmetalgauge_03.png Graphic file (type png)
 <use Imagenes/solidworks_sheetmetalgauge_03.png>
 Package pdftex.def Info: Imagenes/solidworks_sheetmetalgauge_03.png  used on in
-put line 1638.
+put line 1672.
 (pdftex.def)             Requested size: 331.49901pt x 186.7748pt.
 
-Overfull \hbox (87.36514pt too wide) in paragraph at lines 1643--1644
+Overfull \hbox (87.36514pt too wide) in paragraph at lines 1677--1678
 []\OT1/cmr/m/n/12 El di-rec-to-rio se en-cuen-tra en $\OT1/cmtt/m/n/12 \ \ intr
 adeserver \ Ingenieria \ 20 Solidworks templates \
  []
 
 
 
-[128 <./Imagenes/solidworks_sheetmetalgauge_02.png> <./Imagenes/solidworks_shee
+[130 <./Imagenes/solidworks_sheetmetalgauge_02.png> <./Imagenes/solidworks_shee
 tmetalgauge_03.png>]
-<Imagenes/solidworks_sheetmetalgauge_04.png, id=1204, 654.94687pt x 545.03625pt
+<Imagenes/solidworks_sheetmetalgauge_04.png, id=1225, 654.94687pt x 545.03625pt
 >
 File: Imagenes/solidworks_sheetmetalgauge_04.png Graphic file (type png)
 <use Imagenes/solidworks_sheetmetalgauge_04.png>
 Package pdftex.def Info: Imagenes/solidworks_sheetmetalgauge_04.png  used on in
-put line 1651.
+put line 1685.
 (pdftex.def)             Requested size: 329.55132pt x 274.2473pt.
-<Imagenes/solidworks_sheetmetalgauge_05.png, id=1205, 654.19406pt x 544.28343pt
+<Imagenes/solidworks_sheetmetalgauge_05.png, id=1226, 654.19406pt x 544.28343pt
 >
 File: Imagenes/solidworks_sheetmetalgauge_05.png Graphic file (type png)
 <use Imagenes/solidworks_sheetmetalgauge_05.png>
 Package pdftex.def Info: Imagenes/solidworks_sheetmetalgauge_05.png  used on in
-put line 1658.
+put line 1692.
 (pdftex.def)             Requested size: 329.62172pt x 274.24223pt.
 
 
-[129 <./Imagenes/solidworks_sheetmetalgauge_04.png>]
+[131 <./Imagenes/solidworks_sheetmetalgauge_04.png>]
 
-[130 <./Imagenes/solidworks_sheetmetalgauge_05.png>]
+[132 <./Imagenes/solidworks_sheetmetalgauge_05.png>]
 Cap\'{\i }tulo 43.
-<Imagenes/solidworks_updatecustomprop01.png, id=1218, 1073.51062pt x 566.115pt>
+<Imagenes/solidworks_updatecustomprop01.png, id=1240, 1073.51062pt x 566.115pt>
 
 File: Imagenes/solidworks_updatecustomprop01.png Graphic file (type png)
 <use Imagenes/solidworks_updatecustomprop01.png>
 Package pdftex.def Info: Imagenes/solidworks_updatecustomprop01.png  used on in
-put line 1669.
+put line 1703.
 (pdftex.def)             Requested size: 331.4908pt x 174.81142pt.
-<Imagenes/solidworks_updatecustomprop02.png, id=1219, 359.84438pt x 342.5297pt>
+<Imagenes/solidworks_updatecustomprop02.png, id=1241, 359.84438pt x 342.5297pt>
 
 File: Imagenes/solidworks_updatecustomprop02.png Graphic file (type png)
 <use Imagenes/solidworks_updatecustomprop02.png>
 Package pdftex.def Info: Imagenes/solidworks_updatecustomprop02.png  used on in
-put line 1676.
+put line 1710.
 (pdftex.def)             Requested size: 201.68718pt x 191.98256pt.
-
-
-[131
-
- <./Imagenes/solidworks_updatecustomprop01.png>]
-<Imagenes/solidworks_updatecustomprop03.png, id=1226, 359.84438pt x 342.5297pt>
-
-File: Imagenes/solidworks_updatecustomprop03.png Graphic file (type png)
-<use Imagenes/solidworks_updatecustomprop03.png>
-Package pdftex.def Info: Imagenes/solidworks_updatecustomprop03.png  used on in
-put line 1683.
-(pdftex.def)             Requested size: 201.68718pt x 191.98256pt.
-
-
-[132 <./Imagenes/solidworks_updatecustomprop02.png> <./Imagenes/solidworks_upda
-tecustomprop03.png>]
-<Imagenes/solidworks_updatecustomprop04.png, id=1236, 222.07968pt x 213.04594pt
->
-File: Imagenes/solidworks_updatecustomprop04.png Graphic file (type png)
-<use Imagenes/solidworks_updatecustomprop04.png>
-Package pdftex.def Info: Imagenes/solidworks_updatecustomprop04.png  used on in
-put line 1694.
-(pdftex.def)             Requested size: 200.13078pt x 191.98987pt.
 
 
 [133
 
+ <./Imagenes/solidworks_updatecustomprop01.png>]
+<Imagenes/solidworks_updatecustomprop03.png, id=1248, 359.84438pt x 342.5297pt>
+
+File: Imagenes/solidworks_updatecustomprop03.png Graphic file (type png)
+<use Imagenes/solidworks_updatecustomprop03.png>
+Package pdftex.def Info: Imagenes/solidworks_updatecustomprop03.png  used on in
+put line 1717.
+(pdftex.def)             Requested size: 201.68718pt x 191.98256pt.
+
+
+[134 <./Imagenes/solidworks_updatecustomprop02.png> <./Imagenes/solidworks_upda
+tecustomprop03.png>]
+<Imagenes/solidworks_updatecustomprop04.png, id=1257, 222.07968pt x 213.04594pt
+>
+File: Imagenes/solidworks_updatecustomprop04.png Graphic file (type png)
+<use Imagenes/solidworks_updatecustomprop04.png>
+Package pdftex.def Info: Imagenes/solidworks_updatecustomprop04.png  used on in
+put line 1728.
+(pdftex.def)             Requested size: 200.13078pt x 191.98987pt.
+
+
+[135
+
  <./Imagenes/solidworks_updatecustomprop04.png>]
 
-[134
+[136
 
 ]
 Ap\'{e}ndice A.
@@ -2127,50 +2147,42 @@ lang2.sty
 File: lstlang2.sty 2024/09/23 1.10c listings language file
 )
 
-[135
+[137
 
 ]
 Ap\'{e}ndice B.
 
 
-[136
+[138
 
 ]
 Ap\'{e}ndice C.
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
-737.
+771.
 
 (C:\Users\alberto.martinez\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.
 fd
 File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1737.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1771.
 
 
 
-[137
+[139
 
 ]
 Ap\'{e}ndice D.
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 1
-760.
+794.
 
 (C:\Users\alberto.martinez\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.
 fd
 File: omlcmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1760.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1794.
 
-
-
-[138
-
-]
-
-[139]
-Ap\'{e}ndice E.
 
 
 [140
@@ -2178,8 +2190,12 @@ Ap\'{e}ndice E.
 ]
 
 [141]
+Ap\'{e}ndice E.
 
-[142]
+
+[142
+
+]
 
 [143]
 
@@ -2196,127 +2212,147 @@ Ap\'{e}ndice F.
 [148
 
 ]
-Ap\'{e}ndice G.
 
-
-[149
-
-]
+[149]
 
 [150]
-Ap\'{e}ndice H.
 
-
-[151
-
-]
+[151]
 
 [152]
-Ap\'{e}ndice I.
 
-Overfull \hbox (50.00427pt too wide) in paragraph at lines 2169--2170
-[][][][] 
- []
-
-
-Overfull \hbox (44.00421pt too wide) in paragraph at lines 2171--2172
-[][][][] 
- []
-
-
-
-[153
-
-]
+[153]
 
 [154]
 
 [155]
-Ap\'{e}ndice J.
-<Imagenes/apendice_anotative_01.png, id=1862, 414.04688pt x 272.51813pt>
-File: Imagenes/apendice_anotative_01.png Graphic file (type png)
-<use Imagenes/apendice_anotative_01.png>
-Package pdftex.def Info: Imagenes/apendice_anotative_01.png  used on input line
- 2283.
-(pdftex.def)             Requested size: 331.5096pt x 218.19359pt.
+Ap\'{e}ndice G.
 
 
 [156
 
+]
+Ap\'{e}ndice H.
+
+
+[157
+
+]
+
+[158]
+Ap\'{e}ndice I.
+
+
+[159
+
+]
+
+[160]
+Ap\'{e}ndice J.
+
+Overfull \hbox (50.00427pt too wide) in paragraph at lines 2441--2442
+[][][][] 
+ []
+
+
+Overfull \hbox (44.00421pt too wide) in paragraph at lines 2443--2444
+[][][][] 
+ []
+
+
+
+[161
+
+]
+
+[162]
+
+[163]
+Ap\'{e}ndice K.
+<Imagenes/apendice_anotative_01.png, id=2140, 414.04688pt x 272.51813pt>
+File: Imagenes/apendice_anotative_01.png Graphic file (type png)
+<use Imagenes/apendice_anotative_01.png>
+Package pdftex.def Info: Imagenes/apendice_anotative_01.png  used on input line
+ 2555.
+(pdftex.def)             Requested size: 331.5096pt x 218.19359pt.
+
+
+[164
+
  <./Imagenes/apendice_anotative_01.png>]
-<Imagenes/apendice_anotative_02.png, id=1870, 215.30438pt x 87.32625pt>
+<Imagenes/apendice_anotative_02.png, id=2147, 215.30438pt x 87.32625pt>
 File: Imagenes/apendice_anotative_02.png Graphic file (type png)
 <use Imagenes/apendice_anotative_02.png>
 Package pdftex.def Info: Imagenes/apendice_anotative_02.png  used on input line
- 2294.
+ 2566.
 (pdftex.def)             Requested size: 331.53691pt x 134.46951pt.
 
 
-[157 <./Imagenes/apendice_anotative_02.png>]
-<Imagenes/apendice_anotative_03.png, id=1877, 345.54094pt x 422.32782pt>
+[165 <./Imagenes/apendice_anotative_02.png>]
+<Imagenes/apendice_anotative_03.png, id=2154, 345.54094pt x 422.32782pt>
 File: Imagenes/apendice_anotative_03.png Graphic file (type png)
 <use Imagenes/apendice_anotative_03.png>
 Package pdftex.def Info: Imagenes/apendice_anotative_03.png  used on input line
- 2307.
+ 2579.
 (pdftex.def)             Requested size: 224.39331pt x 274.2585pt.
-<Imagenes/apendice_anotative_04.png, id=1878, 615.0478pt x 514.17094pt>
+<Imagenes/apendice_anotative_04.png, id=2155, 615.0478pt x 514.17094pt>
 File: Imagenes/apendice_anotative_04.png Graphic file (type png)
 <use Imagenes/apendice_anotative_04.png>
 Package pdftex.def Info: Imagenes/apendice_anotative_04.png  used on input line
- 2318.
+ 2590.
 (pdftex.def)             Requested size: 328.05722pt x 274.25102pt.
 
 
-[158 <./Imagenes/apendice_anotative_03.png>]
-<Imagenes/apendice_anotative_05.png, id=1885, 251.43938pt x 248.42813pt>
+[166 <./Imagenes/apendice_anotative_03.png>]
+<Imagenes/apendice_anotative_05.png, id=2162, 251.43938pt x 248.42813pt>
 File: Imagenes/apendice_anotative_05.png Graphic file (type png)
 <use Imagenes/apendice_anotative_05.png>
 Package pdftex.def Info: Imagenes/apendice_anotative_05.png  used on input line
- 2325.
+ 2597.
 (pdftex.def)             Requested size: 277.59703pt x 274.27252pt.
 
 
-[159 <./Imagenes/apendice_anotative_04.png>]
-<Imagenes/apendice_anotative_06.png, id=1892, 283.81032pt x 236.38312pt>
+[167 <./Imagenes/apendice_anotative_04.png>]
+<Imagenes/apendice_anotative_06.png, id=2169, 283.81032pt x 236.38312pt>
 File: Imagenes/apendice_anotative_06.png Graphic file (type png)
 <use Imagenes/apendice_anotative_06.png>
 Package pdftex.def Info: Imagenes/apendice_anotative_06.png  used on input line
- 2333.
+ 2605.
 (pdftex.def)             Requested size: 175.49881pt x 146.17729pt.
-<Imagenes/apendice_anotative_07.png, id=1893, 283.81032pt x 236.38312pt>
+<Imagenes/apendice_anotative_07.png, id=2170, 283.81032pt x 236.38312pt>
 File: Imagenes/apendice_anotative_07.png Graphic file (type png)
 <use Imagenes/apendice_anotative_07.png>
 Package pdftex.def Info: Imagenes/apendice_anotative_07.png  used on input line
- 2338.
+ 2610.
 (pdftex.def)             Requested size: 175.49881pt x 146.17729pt.
 
 
-[160 <./Imagenes/apendice_anotative_05.png> <./Imagenes/apendice_anotative_06.p
+[168 <./Imagenes/apendice_anotative_05.png> <./Imagenes/apendice_anotative_06.p
 ng> <./Imagenes/apendice_anotative_07.png>]
-<Imagenes/apendice_anotative_08.png, id=1903, 1179.65718pt x 266.49562pt>
+<Imagenes/apendice_anotative_08.png, id=2181, 1179.65718pt x 266.49562pt>
 File: Imagenes/apendice_anotative_08.png Graphic file (type png)
 <use Imagenes/apendice_anotative_08.png>
 Package pdftex.def Info: Imagenes/apendice_anotative_08.png  used on input line
- 2361.
+ 2633.
 (pdftex.def)             Requested size: 370.49597pt x 83.6985pt.
-<Imagenes/apendice_anotative_09.png, id=1904, 241.65282pt x 297.36093pt>
+<Imagenes/apendice_anotative_09.png, id=2182, 241.65282pt x 297.36093pt>
 File: Imagenes/apendice_anotative_09.png Graphic file (type png)
 <use Imagenes/apendice_anotative_09.png>
 Package pdftex.def Info: Imagenes/apendice_anotative_09.png  used on input line
- 2372.
+ 2644.
 (pdftex.def)             Requested size: 222.88376pt x 274.26505pt.
 
 
-[161 <./Imagenes/apendice_anotative_08.png>]
-<Imagenes/apendice_anotative_10.png, id=1913, 1169.11781pt x 265.74281pt>
+[169 <./Imagenes/apendice_anotative_08.png>]
+<Imagenes/apendice_anotative_10.png, id=2191, 1169.11781pt x 265.74281pt>
 File: Imagenes/apendice_anotative_10.png Graphic file (type png)
 <use Imagenes/apendice_anotative_10.png>
 Package pdftex.def Info: Imagenes/apendice_anotative_10.png  used on input line
- 2379.
+ 2651.
 (pdftex.def)             Requested size: 370.50397pt x 84.21628pt.
 
 
-[162 <./Imagenes/apendice_anotative_09.png> <./Imagenes/apendice_anotative_10.p
+[170 <./Imagenes/apendice_anotative_09.png> <./Imagenes/apendice_anotative_10.p
 ng>] (Recomendaciones-Alberto.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
@@ -2327,10 +2363,10 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 18279 strings out of 473523
- 339356 string characters out of 5709306
- 996749 words of memory out of 5000000
- 40375 multiletter control sequences out of 15000+600000
+ 18631 strings out of 473523
+ 345312 string characters out of 5709306
+ 1026365 words of memory out of 5000000
+ 40483 multiletter control sequences out of 15000+600000
  568171 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,8n,93p,603b,2208s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2352,9 +2388,9 @@ ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alberto.martinez
 ers/alberto.martinez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmti12.pfb><C:/Users/alberto.martinez/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Recomendaciones-Alberto.pdf (163 pages, 6782062 bytes).
+Output written on Recomendaciones-Alberto.pdf (171 pages, 7009617 bytes).
 PDF statistics:
- 2482 PDF objects out of 2487 (max. 8388607)
- 952 named destinations out of 1000 (max. 500000)
- 1656 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2814 PDF objects out of 2984 (max. 8388607)
+ 1196 named destinations out of 1200 (max. 500000)
+ 1687 words of extra memory for PDF output out of 10000 (max. 10000000)
 
